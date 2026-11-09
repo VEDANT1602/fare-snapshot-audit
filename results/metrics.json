@@ -1,0 +1,18 @@
+{
+  "train": 1500,
+  "validation": 300,
+  "test": 600,
+  "selected_alpha": 0,
+  "validation_mae": {
+    "0": 3.0358088043897165,
+    "1": 3.0376632971513255,
+    "10": 3.070389850029516
+  },
+  "training_mean_test_mae": 24.067080614522595,
+  "decision_time_test_mae": 3.3245253152835175,
+  "unsafe_leakage_test_mae": 0.04094993812113367,
+  "served_valid_requests": 300,
+  "refused_expired_requests": 300,
+  "numpy": "1.26.0",
+  "units": "fictional fare units, not real prices"
+}

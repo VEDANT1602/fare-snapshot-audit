@@ -1,0 +1,17 @@
+{
+  "name": "fare-snapshot-audit",
+  "title": "Fare Snapshot Audit",
+  "source_collection": "KalyanM45/AI-Project-Gallery",
+  "source_entry_url": "https://github.com/KalyanM45/Flight-Fare-Prediction/blob/e571ca3f2759132f4e118edef29908a9bb75f628/README.md",
+  "skills": [
+    "tabular ML",
+    "time-aware feature contracts",
+    "model serving",
+    "pricing workflows"
+  ],
+  "problem": "Can a fare model use only the information available at quote time and recognize when a quote is stale?",
+  "limitations": "The original stationary simulation has 2,400 quotes over 160 days: 1,500 training, 300 validation and 600 test quotes, split by time. Route, lead time, departure seasonality and weekend status are known at quote time. paid_fare is a later label. post_booking_fare is a separately named intentionally leaked diagnostic prohibited for serving. Quotes expire after five fixture-time units. Values are fictional fare units, not real travel prices. No booking API, consumer advice, causal pricing effect or deployment is implied.",
+  "test_command": "python -m unittest discover -s tests -v",
+  "run_command": "python run.py --output runs/local",
+  "test_count": 10
+}

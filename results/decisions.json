@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "d120-00",
+    "paid_fare": 73.18275922,
+    "ready_prediction": 78.8609104317534,
+    "unsafe_leakage_prediction": 73.19408461743339,
+    "request_time": 12002,
+    "quote_status": "served",
+    "served_prediction": 78.86091043175341
+  },
+  {
+    "id": "d120-01",
+    "paid_fare": 117.84846464,
+    "ready_prediction": 121.66208340012075,
+    "unsafe_leakage_prediction": 117.88021156620884,
+    "request_time": 12007,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-02",
+    "paid_fare": 89.07348334,
+    "ready_prediction": 86.72666418988429,
+    "unsafe_leakage_prediction": 88.97916067082348,
+    "request_time": 12004,
+    "quote_status": "served",
+    "served_prediction": 86.72666418988432
+  },
+  {
+    "id": "d120-03",
+    "paid_fare": 142.35326305,
+    "ready_prediction": 144.3802472051446,
+    "unsafe_leakage_prediction": 142.2843426551129,
+    "request_time": 12009,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-04",
+    "paid_fare": 122.96971721,
+    "ready_prediction": 127.73407370365322,
+    "unsafe_leakage_prediction": 122.98681914182552,
+    "request_time": 12006,
+    "quote_status": "served",
+    "served_prediction": 127.73407370365321
+  },
+  {
+    "id": "d120-05",
+    "paid_fare": 78.89974981,
+    "ready_prediction": 86.20982720788678,
+    "unsafe_leakage_prediction": 78.85871765617564,
+    "request_time": 12011,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-06",
+    "paid_fare": 163.4366876,
+    "ready_prediction": 159.39240676699563,
+    "unsafe_leakage_prediction": 163.41064871726215,
+    "request_time": 12008,
+    "quote_status": "served",
+    "served_prediction": 159.39240676699563
+  },
+  {
+    "id": "d120-07",
+    "paid_fare": 143.20355432,
+    "ready_prediction": 143.57142375363193,
+    "unsafe_leakage_prediction": 143.2708943062439,
+    "request_time": 12013,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-08",
+    "paid_fare": 146.53036589,
+    "ready_prediction": 143.57142375363193,
+    "unsafe_leakage_prediction": 146.53043331646452,
+    "request_time": 12010,
+    "quote_status": "served",
+    "served_prediction": 143.57142375363193
+  },
+  {
+    "id": "d120-09",
+    "paid_fare": 109.70424539,
+    "ready_prediction": 107.88178878957604,
+    "unsafe_leakage_prediction": 109.69655530019372,
+    "request_time": 12015,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-10",
+    "paid_fare": 155.68816739,
+    "ready_prediction": 156.94397073468159,
+    "unsafe_leakage_prediction": 155.62874832758564,
+    "request_time": 12012,
+    "quote_status": "served",
+    "served_prediction": 156.9439707346816
+  },
+  {
+    "id": "d120-11",
+    "paid_fare": 135.05741737,
+    "ready_prediction": 133.70372568153246,
+    "unsafe_leakage_prediction": 135.08204587564083,
+    "request_time": 12017,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-12",
+    "paid_fare": 135.60144089,
+    "ready_prediction": 136.88034015050076,
+    "unsafe_leakage_prediction": 135.55723517521548,
+    "request_time": 12014,
+    "quote_status": "served",
+    "served_prediction": 136.88034015050076
+  },
+  {
+    "id": "d120-13",
+    "paid_fare": 90.77305453,
+    "ready_prediction": 87.29424496617635,
+    "unsafe_leakage_prediction": 90.84326964845894,
+    "request_time": 12019,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d120-14",
+    "paid_fare": 156.867135,
+    "ready_prediction": 160.24807963442262,
+    "unsafe_leakage_prediction": 156.85646565314184,
+    "request_time": 12016,
+    "quote_status": "served",
+    "served_prediction": 160.24807963442262
+  },
+  {
+    "id": "d121-00",
+    "paid_fare": 186.69091005,
+    "ready_prediction": 188.51160885275573,
+    "unsafe_leakage_prediction": 186.68843202677198,
+    "request_time": 12106,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-01",
+    "paid_fare": 142.09388614,
+    "ready_prediction": 142.95518124232257,
+    "unsafe_leakage_prediction": 142.05422600712924,
+    "request_time": 12103,
+    "quote_status": "served",
+    "served_prediction": 142.9551812423226
+  },
+  {
+    "id": "d121-02",
+    "paid_fare": 72.86012317,
+    "ready_prediction": 82.52987485382344,
+    "unsafe_leakage_prediction": 72.86964998779678,
+    "request_time": 12108,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-03",
+    "paid_fare": 121.94461393,
+    "ready_prediction": 122.00514435981937,
+    "unsafe_leakage_prediction": 121.96262197711648,
+    "request_time": 12105,
+    "quote_status": "served",
+    "served_prediction": 122.00514435981937
+  },
+  {
+    "id": "d121-04",
+    "paid_fare": 131.85047706,
+    "ready_prediction": 127.97624811902043,
+    "unsafe_leakage_prediction": 131.7990186368418,
+    "request_time": 12110,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-05",
+    "paid_fare": 77.84196122,
+    "ready_prediction": 82.52987485382344,
+    "unsafe_leakage_prediction": 77.82657294334987,
+    "request_time": 12107,
+    "quote_status": "served",
+    "served_prediction": 82.52987485382344
+  },
+  {
+    "id": "d121-06",
+    "paid_fare": 115.76240321,
+    "ready_prediction": 106.86940794832111,
+    "unsafe_leakage_prediction": 115.80689022278449,
+    "request_time": 12112,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-07",
+    "paid_fare": 103.83125207,
+    "ready_prediction": 100.4923062681072,
+    "unsafe_leakage_prediction": 103.77710359792329,
+    "request_time": 12109,
+    "quote_status": "served",
+    "served_prediction": 100.49230626810723
+  },
+  {
+    "id": "d121-08",
+    "paid_fare": 92.15891755,
+    "ready_prediction": 91.59869545865857,
+    "unsafe_leakage_prediction": 92.22502749833845,
+    "request_time": 12114,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-09",
+    "paid_fare": 101.05250117,
+    "ready_prediction": 104.63623807412874,
+    "unsafe_leakage_prediction": 101.16143666668364,
+    "request_time": 12111,
+    "quote_status": "served",
+    "served_prediction": 104.63623807412874
+  },
+  {
+    "id": "d121-10",
+    "paid_fare": 146.17418378,
+    "ready_prediction": 145.0760668116056,
+    "unsafe_leakage_prediction": 146.17381924302222,
+    "request_time": 12116,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-11",
+    "paid_fare": 132.19243036,
+    "ready_prediction": 140.9321350055841,
+    "unsafe_leakage_prediction": 132.19885366155967,
+    "request_time": 12113,
+    "quote_status": "served",
+    "served_prediction": 140.9321350055841
+  },
+  {
+    "id": "d121-12",
+    "paid_fare": 102.86358871,
+    "ready_prediction": 101.4176005364197,
+    "unsafe_leakage_prediction": 102.83395076546336,
+    "request_time": 12118,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d121-13",
+    "paid_fare": 124.7869953,
+    "ready_prediction": 127.08607849392372,
+    "unsafe_leakage_prediction": 124.82366106224174,
+    "request_time": 12115,
+    "quote_status": "served",
+    "served_prediction": 127.08607849392375
+  },
+  {
+    "id": "d121-14",
+    "paid_fare": 81.75193058,
+    "ready_prediction": 82.33050900109444,
+    "unsafe_leakage_prediction": 81.82322556682857,
+    "request_time": 12120,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-00",
+    "paid_fare": 149.0269595,
+    "ready_prediction": 150.45136013537171,
+    "unsafe_leakage_prediction": 148.9600970836658,
+    "request_time": 12202,
+    "quote_status": "served",
+    "served_prediction": 150.45136013537171
+  },
+  {
+    "id": "d122-01",
+    "paid_fare": 88.98891962,
+    "ready_prediction": 92.07869590500171,
+    "unsafe_leakage_prediction": 89.01860862169539,
+    "request_time": 12207,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-02",
+    "paid_fare": 168.65135637,
+    "ready_prediction": 165.94010279170908,
+    "unsafe_leakage_prediction": 168.61006563856478,
+    "request_time": 12204,
+    "quote_status": "served",
+    "served_prediction": 165.94010279170905
+  },
+  {
+    "id": "d122-03",
+    "paid_fare": 110.07063664,
+    "ready_prediction": 109.97887849747944,
+    "unsafe_leakage_prediction": 110.06160099251039,
+    "request_time": 12209,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-04",
+    "paid_fare": 78.8595892,
+    "ready_prediction": 80.45056447142419,
+    "unsafe_leakage_prediction": 78.87178664677441,
+    "request_time": 12206,
+    "quote_status": "served",
+    "served_prediction": 80.45056447142422
+  },
+  {
+    "id": "d122-05",
+    "paid_fare": 130.75657883,
+    "ready_prediction": 129.86381631197202,
+    "unsafe_leakage_prediction": 130.75530130572292,
+    "request_time": 12211,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-06",
+    "paid_fare": 124.81974002,
+    "ready_prediction": 128.73643956518427,
+    "unsafe_leakage_prediction": 124.79751808331531,
+    "request_time": 12208,
+    "quote_status": "served",
+    "served_prediction": 128.73643956518427
+  },
+  {
+    "id": "d122-07",
+    "paid_fare": 128.08866226,
+    "ready_prediction": 127.91277024153696,
+    "unsafe_leakage_prediction": 128.08442239645174,
+    "request_time": 12213,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-08",
+    "paid_fare": 141.85233126,
+    "ready_prediction": 140.9859252051595,
+    "unsafe_leakage_prediction": 141.86768530570424,
+    "request_time": 12210,
+    "quote_status": "served",
+    "served_prediction": 140.9859252051595
+  },
+  {
+    "id": "d122-09",
+    "paid_fare": 98.08262165,
+    "ready_prediction": 94.87017605908875,
+    "unsafe_leakage_prediction": 98.11845691996787,
+    "request_time": 12215,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-10",
+    "paid_fare": 118.99287378,
+    "ready_prediction": 124.14127340195206,
+    "unsafe_leakage_prediction": 119.06020282598652,
+    "request_time": 12212,
+    "quote_status": "served",
+    "served_prediction": 124.14127340195209
+  },
+  {
+    "id": "d122-11",
+    "paid_fare": 58.27729127,
+    "ready_prediction": 62.5585735417331,
+    "unsafe_leakage_prediction": 58.28712364295306,
+    "request_time": 12217,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-12",
+    "paid_fare": 129.43239883,
+    "ready_prediction": 127.91277024153696,
+    "unsafe_leakage_prediction": 129.36719695981185,
+    "request_time": 12214,
+    "quote_status": "served",
+    "served_prediction": 127.91277024153696
+  },
+  {
+    "id": "d122-13",
+    "paid_fare": 125.67741475,
+    "ready_prediction": 121.85666661303308,
+    "unsafe_leakage_prediction": 125.73267445424533,
+    "request_time": 12219,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d122-14",
+    "paid_fare": 102.79084482,
+    "ready_prediction": 94.74099726895469,
+    "unsafe_leakage_prediction": 102.74397574416724,
+    "request_time": 12216,
+    "quote_status": "served",
+    "served_prediction": 94.74099726895467
+  },
+  {
+    "id": "d123-00",
+    "paid_fare": 145.18204237,
+    "ready_prediction": 146.67744661899846,
+    "unsafe_leakage_prediction": 145.18627348350674,
+    "request_time": 12306,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-01",
+    "paid_fare": 170.13196874,
+    "ready_prediction": 164.83395036688313,
+    "unsafe_leakage_prediction": 170.1375139826867,
+    "request_time": 12303,
+    "quote_status": "served",
+    "served_prediction": 164.83395036688313
+  },
+  {
+    "id": "d123-02",
+    "paid_fare": 123.61007434,
+    "ready_prediction": 121.68106395989587,
+    "unsafe_leakage_prediction": 123.6266967391318,
+    "request_time": 12308,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-03",
+    "paid_fare": 119.64844079,
+    "ready_prediction": 113.44859794171502,
+    "unsafe_leakage_prediction": 119.65252132750375,
+    "request_time": 12305,
+    "quote_status": "served",
+    "served_prediction": 113.44859794171504
+  },
+  {
+    "id": "d123-04",
+    "paid_fare": 107.64424802,
+    "ready_prediction": 104.85303723205078,
+    "unsafe_leakage_prediction": 107.73264144528832,
+    "request_time": 12310,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-05",
+    "paid_fare": 94.41852847,
+    "ready_prediction": 93.26039149156618,
+    "unsafe_leakage_prediction": 94.39613155615186,
+    "request_time": 12307,
+    "quote_status": "served",
+    "served_prediction": 93.2603914915662
+  },
+  {
+    "id": "d123-06",
+    "paid_fare": 126.83228582,
+    "ready_prediction": 124.61915365966371,
+    "unsafe_leakage_prediction": 126.78234336286754,
+    "request_time": 12312,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-07",
+    "paid_fare": 152.02158711,
+    "ready_prediction": 149.62572463892292,
+    "unsafe_leakage_prediction": 152.02147828751754,
+    "request_time": 12309,
+    "quote_status": "served",
+    "served_prediction": 149.6257246389229
+  },
+  {
+    "id": "d123-08",
+    "paid_fare": 153.8097872,
+    "ready_prediction": 156.20452008150005,
+    "unsafe_leakage_prediction": 153.79655837072974,
+    "request_time": 12314,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-09",
+    "paid_fare": 171.48325683,
+    "ready_prediction": 181.835013403195,
+    "unsafe_leakage_prediction": 171.46578602942208,
+    "request_time": 12311,
+    "quote_status": "served",
+    "served_prediction": 181.835013403195
+  },
+  {
+    "id": "d123-10",
+    "paid_fare": 108.37448842,
+    "ready_prediction": 105.75898076121595,
+    "unsafe_leakage_prediction": 108.3225417722001,
+    "request_time": 12316,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-11",
+    "paid_fare": 154.67525849,
+    "ready_prediction": 159.37282201278714,
+    "unsafe_leakage_prediction": 154.68147719137812,
+    "request_time": 12313,
+    "quote_status": "served",
+    "served_prediction": 159.37282201278717
+  },
+  {
+    "id": "d123-12",
+    "paid_fare": 121.33936911,
+    "ready_prediction": 117.87692116401962,
+    "unsafe_leakage_prediction": 121.24736076634518,
+    "request_time": 12318,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d123-13",
+    "paid_fare": 146.22758546,
+    "ready_prediction": 144.4714385737409,
+    "unsafe_leakage_prediction": 146.16468882308587,
+    "request_time": 12315,
+    "quote_status": "served",
+    "served_prediction": 144.4714385737409
+  },
+  {
+    "id": "d123-14",
+    "paid_fare": 72.00788201,
+    "ready_prediction": 68.20133040952115,
+    "unsafe_leakage_prediction": 71.99198204859063,
+    "request_time": 12320,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-00",
+    "paid_fare": 150.26897428,
+    "ready_prediction": 151.9689721818057,
+    "unsafe_leakage_prediction": 150.26296559733115,
+    "request_time": 12402,
+    "quote_status": "served",
+    "served_prediction": 151.96897218180567
+  },
+  {
+    "id": "d124-01",
+    "paid_fare": 167.82081318,
+    "ready_prediction": 165.36453772779728,
+    "unsafe_leakage_prediction": 167.7649523572246,
+    "request_time": 12407,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-02",
+    "paid_fare": 147.38352363,
+    "ready_prediction": 142.56449586125544,
+    "unsafe_leakage_prediction": 147.38232393371084,
+    "request_time": 12404,
+    "quote_status": "served",
+    "served_prediction": 142.5644958612554
+  },
+  {
+    "id": "d124-03",
+    "paid_fare": 111.82396518,
+    "ready_prediction": 110.15193413874945,
+    "unsafe_leakage_prediction": 111.87359935001254,
+    "request_time": 12409,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-04",
+    "paid_fare": 124.68457383,
+    "ready_prediction": 120.21844669934006,
+    "unsafe_leakage_prediction": 124.70798484459377,
+    "request_time": 12406,
+    "quote_status": "served",
+    "served_prediction": 120.21844669934006
+  },
+  {
+    "id": "d124-05",
+    "paid_fare": 101.48521191,
+    "ready_prediction": 98.81530700093727,
+    "unsafe_leakage_prediction": 101.44459107129983,
+    "request_time": 12411,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-06",
+    "paid_fare": 118.11438836,
+    "ready_prediction": 123.4019871184043,
+    "unsafe_leakage_prediction": 118.10050788131618,
+    "request_time": 12408,
+    "quote_status": "served",
+    "served_prediction": 123.40198711840428
+  },
+  {
+    "id": "d124-07",
+    "paid_fare": 127.04943215,
+    "ready_prediction": 127.58535315108513,
+    "unsafe_leakage_prediction": 126.96580599591464,
+    "request_time": 12413,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-08",
+    "paid_fare": 109.98393194,
+    "ready_prediction": 106.93343748798262,
+    "unsafe_leakage_prediction": 109.9777460525696,
+    "request_time": 12410,
+    "quote_status": "served",
+    "served_prediction": 106.93343748798263
+  },
+  {
+    "id": "d124-09",
+    "paid_fare": 82.40625394,
+    "ready_prediction": 85.95656599702363,
+    "unsafe_leakage_prediction": 82.42984879974452,
+    "request_time": 12415,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-10",
+    "paid_fare": 135.99569559,
+    "ready_prediction": 130.3125508559781,
+    "unsafe_leakage_prediction": 136.0039790997034,
+    "request_time": 12412,
+    "quote_status": "served",
+    "served_prediction": 130.3125508559781
+  },
+  {
+    "id": "d124-11",
+    "paid_fare": 146.22262862,
+    "ready_prediction": 150.09975104908506,
+    "unsafe_leakage_prediction": 146.22449926745176,
+    "request_time": 12417,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-12",
+    "paid_fare": 148.34721453,
+    "ready_prediction": 151.10866423142733,
+    "unsafe_leakage_prediction": 148.34824876293334,
+    "request_time": 12414,
+    "quote_status": "served",
+    "served_prediction": 151.1086642314273
+  },
+  {
+    "id": "d124-13",
+    "paid_fare": 88.57562008,
+    "ready_prediction": 89.87272211850122,
+    "unsafe_leakage_prediction": 88.50057359224385,
+    "request_time": 12419,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d124-14",
+    "paid_fare": 109.56778918,
+    "ready_prediction": 110.46026594190089,
+    "unsafe_leakage_prediction": 109.65910260631189,
+    "request_time": 12416,
+    "quote_status": "served",
+    "served_prediction": 110.4602659419009
+  },
+  {
+    "id": "d125-00",
+    "paid_fare": 124.60059771,
+    "ready_prediction": 128.2811727575462,
+    "unsafe_leakage_prediction": 124.52988030382241,
+    "request_time": 12506,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-01",
+    "paid_fare": 103.48308901,
+    "ready_prediction": 103.77537106360383,
+    "unsafe_leakage_prediction": 103.56851680730392,
+    "request_time": 12503,
+    "quote_status": "served",
+    "served_prediction": 103.77537106360384
+  },
+  {
+    "id": "d125-02",
+    "paid_fare": 110.46388252,
+    "ready_prediction": 111.23985330932082,
+    "unsafe_leakage_prediction": 110.47737994361476,
+    "request_time": 12508,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-03",
+    "paid_fare": 89.29023482,
+    "ready_prediction": 90.21859788073535,
+    "unsafe_leakage_prediction": 89.38120194810796,
+    "request_time": 12505,
+    "quote_status": "served",
+    "served_prediction": 90.21859788073532
+  },
+  {
+    "id": "d125-04",
+    "paid_fare": 70.93652238,
+    "ready_prediction": 69.63105405733563,
+    "unsafe_leakage_prediction": 70.96627944654023,
+    "request_time": 12510,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-05",
+    "paid_fare": 75.47176126,
+    "ready_prediction": 82.29195406980344,
+    "unsafe_leakage_prediction": 75.4744327529145,
+    "request_time": 12507,
+    "quote_status": "served",
+    "served_prediction": 82.29195406980344
+  },
+  {
+    "id": "d125-06",
+    "paid_fare": 137.2890748,
+    "ready_prediction": 137.17720195981119,
+    "unsafe_leakage_prediction": 137.25436799927516,
+    "request_time": 12512,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-07",
+    "paid_fare": 97.60875695,
+    "ready_prediction": 94.41745800726144,
+    "unsafe_leakage_prediction": 97.60162432614483,
+    "request_time": 12509,
+    "quote_status": "served",
+    "served_prediction": 94.41745800726147
+  },
+  {
+    "id": "d125-08",
+    "paid_fare": 113.69095213,
+    "ready_prediction": 112.45064120263795,
+    "unsafe_leakage_prediction": 113.58424246379144,
+    "request_time": 12514,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-09",
+    "paid_fare": 144.19178119,
+    "ready_prediction": 143.34962492046282,
+    "unsafe_leakage_prediction": 144.15275977455875,
+    "request_time": 12511,
+    "quote_status": "served",
+    "served_prediction": 143.3496249204628
+  },
+  {
+    "id": "d125-10",
+    "paid_fare": 70.62054764,
+    "ready_prediction": 74.32346031749924,
+    "unsafe_leakage_prediction": 70.60344303009364,
+    "request_time": 12516,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-11",
+    "paid_fare": 132.75345264,
+    "ready_prediction": 128.2811727575462,
+    "unsafe_leakage_prediction": 132.70411039957057,
+    "request_time": 12513,
+    "quote_status": "served",
+    "served_prediction": 128.28117275754616
+  },
+  {
+    "id": "d125-12",
+    "paid_fare": 189.5566796,
+    "ready_prediction": 183.38587560035364,
+    "unsafe_leakage_prediction": 189.43183487158925,
+    "request_time": 12518,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d125-13",
+    "paid_fare": 156.00250332,
+    "ready_prediction": 160.95693436067052,
+    "unsafe_leakage_prediction": 155.96679020250912,
+    "request_time": 12515,
+    "quote_status": "served",
+    "served_prediction": 160.95693436067052
+  },
+  {
+    "id": "d125-14",
+    "paid_fare": 123.17737565,
+    "ready_prediction": 125.93944213477747,
+    "unsafe_leakage_prediction": 123.19076059502609,
+    "request_time": 12520,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-00",
+    "paid_fare": 88.34412089,
+    "ready_prediction": 91.18175281395779,
+    "unsafe_leakage_prediction": 88.37784573729884,
+    "request_time": 12602,
+    "quote_status": "served",
+    "served_prediction": 91.1817528139578
+  },
+  {
+    "id": "d126-01",
+    "paid_fare": 105.79260557,
+    "ready_prediction": 108.45104953441658,
+    "unsafe_leakage_prediction": 105.75356530871898,
+    "request_time": 12607,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-02",
+    "paid_fare": 80.10657855,
+    "ready_prediction": 86.38084236234887,
+    "unsafe_leakage_prediction": 80.02036828215654,
+    "request_time": 12604,
+    "quote_status": "served",
+    "served_prediction": 86.38084236234887
+  },
+  {
+    "id": "d126-03",
+    "paid_fare": 162.16350383,
+    "ready_prediction": 158.58484487216566,
+    "unsafe_leakage_prediction": 162.1898611105843,
+    "request_time": 12609,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-04",
+    "paid_fare": 94.8757482,
+    "ready_prediction": 93.41673549849281,
+    "unsafe_leakage_prediction": 94.950851518263,
+    "request_time": 12606,
+    "quote_status": "served",
+    "served_prediction": 93.41673549849281
+  },
+  {
+    "id": "d126-05",
+    "paid_fare": 126.91066809,
+    "ready_prediction": 129.0385933578163,
+    "unsafe_leakage_prediction": 126.93553734842223,
+    "request_time": 12611,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-06",
+    "paid_fare": 129.93707391,
+    "ready_prediction": 129.2924046477326,
+    "unsafe_leakage_prediction": 129.9749545298689,
+    "request_time": 12608,
+    "quote_status": "served",
+    "served_prediction": 129.29240464773258
+  },
+  {
+    "id": "d126-07",
+    "paid_fare": 87.73641886,
+    "ready_prediction": 92.1962076880875,
+    "unsafe_leakage_prediction": 87.7065866092581,
+    "request_time": 12613,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-08",
+    "paid_fare": 76.59669399,
+    "ready_prediction": 77.46576212779534,
+    "unsafe_leakage_prediction": 76.61803475553899,
+    "request_time": 12610,
+    "quote_status": "served",
+    "served_prediction": 77.46576212779537
+  },
+  {
+    "id": "d126-09",
+    "paid_fare": 142.90622427,
+    "ready_prediction": 138.0011228615307,
+    "unsafe_leakage_prediction": 143.01785778991092,
+    "request_time": 12615,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-10",
+    "paid_fare": 111.29102421,
+    "ready_prediction": 105.25261291066965,
+    "unsafe_leakage_prediction": 111.3231760904698,
+    "request_time": 12612,
+    "quote_status": "served",
+    "served_prediction": 105.25261291066965
+  },
+  {
+    "id": "d126-11",
+    "paid_fare": 93.87043449,
+    "ready_prediction": 95.19150368289392,
+    "unsafe_leakage_prediction": 93.89645918238693,
+    "request_time": 12617,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-12",
+    "paid_fare": 75.03802622,
+    "ready_prediction": 83.59662240004111,
+    "unsafe_leakage_prediction": 74.97696486141905,
+    "request_time": 12614,
+    "quote_status": "served",
+    "served_prediction": 83.59662240004113
+  },
+  {
+    "id": "d126-13",
+    "paid_fare": 86.65308451,
+    "ready_prediction": 84.66506908726996,
+    "unsafe_leakage_prediction": 86.71815871713929,
+    "request_time": 12619,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d126-14",
+    "paid_fare": 151.91221829,
+    "ready_prediction": 143.65954824293945,
+    "unsafe_leakage_prediction": 151.90554030833866,
+    "request_time": 12616,
+    "quote_status": "served",
+    "served_prediction": 143.65954824293945
+  },
+  {
+    "id": "d127-00",
+    "paid_fare": 89.00077146,
+    "ready_prediction": 89.69148836781457,
+    "unsafe_leakage_prediction": 88.93549057552616,
+    "request_time": 12706,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-01",
+    "paid_fare": 150.1546046,
+    "ready_prediction": 145.86581245041342,
+    "unsafe_leakage_prediction": 150.13801148323145,
+    "request_time": 12703,
+    "quote_status": "served",
+    "served_prediction": 145.86581245041342
+  },
+  {
+    "id": "d127-02",
+    "paid_fare": 167.74090217,
+    "ready_prediction": 164.830122417679,
+    "unsafe_leakage_prediction": 167.70091574344212,
+    "request_time": 12708,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-03",
+    "paid_fare": 107.77390812,
+    "ready_prediction": 101.99460259124366,
+    "unsafe_leakage_prediction": 107.7949501194372,
+    "request_time": 12705,
+    "quote_status": "served",
+    "served_prediction": 101.99460259124366
+  },
+  {
+    "id": "d127-04",
+    "paid_fare": 130.28293559,
+    "ready_prediction": 127.31315418462087,
+    "unsafe_leakage_prediction": 130.2657388483046,
+    "request_time": 12710,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-05",
+    "paid_fare": 124.73992846,
+    "ready_prediction": 122.58214641464333,
+    "unsafe_leakage_prediction": 124.76012095765995,
+    "request_time": 12707,
+    "quote_status": "served",
+    "served_prediction": 122.58214641464333
+  },
+  {
+    "id": "d127-06",
+    "paid_fare": 153.44134735,
+    "ready_prediction": 152.52163852815653,
+    "unsafe_leakage_prediction": 153.38573077073355,
+    "request_time": 12712,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-07",
+    "paid_fare": 117.07736649,
+    "ready_prediction": 112.79071550647947,
+    "unsafe_leakage_prediction": 117.05481905921971,
+    "request_time": 12709,
+    "quote_status": "served",
+    "served_prediction": 112.79071550647947
+  },
+  {
+    "id": "d127-08",
+    "paid_fare": 122.09724238,
+    "ready_prediction": 116.55032233603235,
+    "unsafe_leakage_prediction": 122.14962907313307,
+    "request_time": 12714,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-09",
+    "paid_fare": 85.30539574,
+    "ready_prediction": 90.15465440964783,
+    "unsafe_leakage_prediction": 85.42074757488993,
+    "request_time": 12711,
+    "quote_status": "served",
+    "served_prediction": 90.15465440964782
+  },
+  {
+    "id": "d127-10",
+    "paid_fare": 127.99052422,
+    "ready_prediction": 132.4261065318981,
+    "unsafe_leakage_prediction": 128.01620133193373,
+    "request_time": 12716,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-11",
+    "paid_fare": 149.96681353,
+    "ready_prediction": 148.06122307997347,
+    "unsafe_leakage_prediction": 149.9902095719655,
+    "request_time": 12713,
+    "quote_status": "served",
+    "served_prediction": 148.06122307997347
+  },
+  {
+    "id": "d127-12",
+    "paid_fare": 83.41548529,
+    "ready_prediction": 84.37620976746102,
+    "unsafe_leakage_prediction": 83.48657696767046,
+    "request_time": 12718,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d127-13",
+    "paid_fare": 120.57722522,
+    "ready_prediction": 129.0792708052138,
+    "unsafe_leakage_prediction": 120.58313269104278,
+    "request_time": 12715,
+    "quote_status": "served",
+    "served_prediction": 129.0792708052138
+  },
+  {
+    "id": "d127-14",
+    "paid_fare": 103.57408722,
+    "ready_prediction": 101.17069417855934,
+    "unsafe_leakage_prediction": 103.6258238451079,
+    "request_time": 12720,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-00",
+    "paid_fare": 148.466726,
+    "ready_prediction": 149.60473450865118,
+    "unsafe_leakage_prediction": 148.4940180674342,
+    "request_time": 12802,
+    "quote_status": "served",
+    "served_prediction": 149.60473450865118
+  },
+  {
+    "id": "d128-01",
+    "paid_fare": 110.26587476,
+    "ready_prediction": 113.37557575239063,
+    "unsafe_leakage_prediction": 110.26126104513467,
+    "request_time": 12807,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-02",
+    "paid_fare": 74.77445164,
+    "ready_prediction": 81.36273772257958,
+    "unsafe_leakage_prediction": 74.75656551221228,
+    "request_time": 12804,
+    "quote_status": "served",
+    "served_prediction": 81.36273772257961
+  },
+  {
+    "id": "d128-03",
+    "paid_fare": 90.66199938,
+    "ready_prediction": 92.97444651281852,
+    "unsafe_leakage_prediction": 90.62451944761267,
+    "request_time": 12809,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-04",
+    "paid_fare": 116.71636127,
+    "ready_prediction": 125.59285502646408,
+    "unsafe_leakage_prediction": 116.66362825723137,
+    "request_time": 12806,
+    "quote_status": "served",
+    "served_prediction": 125.59285502646408
+  },
+  {
+    "id": "d128-05",
+    "paid_fare": 83.66562524,
+    "ready_prediction": 87.98157978559455,
+    "unsafe_leakage_prediction": 83.77642147710927,
+    "request_time": 12811,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-06",
+    "paid_fare": 102.27483469,
+    "ready_prediction": 105.87183415502234,
+    "unsafe_leakage_prediction": 102.35338778561791,
+    "request_time": 12808,
+    "quote_status": "served",
+    "served_prediction": 105.87183415502236
+  },
+  {
+    "id": "d128-07",
+    "paid_fare": 146.08501523,
+    "ready_prediction": 148.61875154127566,
+    "unsafe_leakage_prediction": 146.15430418876184,
+    "request_time": 12813,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-08",
+    "paid_fare": 143.70996937,
+    "ready_prediction": 134.24785723238497,
+    "unsafe_leakage_prediction": 143.68460349076003,
+    "request_time": 12810,
+    "quote_status": "served",
+    "served_prediction": 134.24785723238494
+  },
+  {
+    "id": "d128-09",
+    "paid_fare": 95.27550562,
+    "ready_prediction": 96.7312824964777,
+    "unsafe_leakage_prediction": 95.29967551434203,
+    "request_time": 12815,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-10",
+    "paid_fare": 105.33239617,
+    "ready_prediction": 105.74057011238689,
+    "unsafe_leakage_prediction": 105.32688614467538,
+    "request_time": 12812,
+    "quote_status": "served",
+    "served_prediction": 105.7405701123869
+  },
+  {
+    "id": "d128-11",
+    "paid_fare": 115.56222389,
+    "ready_prediction": 119.54512013103005,
+    "unsafe_leakage_prediction": 115.56635608190444,
+    "request_time": 12817,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-12",
+    "paid_fare": 72.77522733,
+    "ready_prediction": 76.77859794729541,
+    "unsafe_leakage_prediction": 72.82800780924825,
+    "request_time": 12814,
+    "quote_status": "served",
+    "served_prediction": 76.77859794729542
+  },
+  {
+    "id": "d128-13",
+    "paid_fare": 155.08451568,
+    "ready_prediction": 148.61875154127566,
+    "unsafe_leakage_prediction": 155.07321565860855,
+    "request_time": 12819,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d128-14",
+    "paid_fare": 103.84306839,
+    "ready_prediction": 105.74057011238689,
+    "unsafe_leakage_prediction": 103.86617680525094,
+    "request_time": 12816,
+    "quote_status": "served",
+    "served_prediction": 105.7405701123869
+  },
+  {
+    "id": "d129-00",
+    "paid_fare": 142.01022662,
+    "ready_prediction": 146.77193116015823,
+    "unsafe_leakage_prediction": 142.0096433824245,
+    "request_time": 12906,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-01",
+    "paid_fare": 123.87308064,
+    "ready_prediction": 120.99241513945212,
+    "unsafe_leakage_prediction": 123.90881958064337,
+    "request_time": 12903,
+    "quote_status": "served",
+    "served_prediction": 120.99241513945213
+  },
+  {
+    "id": "d129-02",
+    "paid_fare": 120.57067631,
+    "ready_prediction": 133.32355610326277,
+    "unsafe_leakage_prediction": 120.57531017836469,
+    "request_time": 12908,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-03",
+    "paid_fare": 149.64074021,
+    "ready_prediction": 149.43990159710143,
+    "unsafe_leakage_prediction": 149.64960362695484,
+    "request_time": 12905,
+    "quote_status": "served",
+    "served_prediction": 149.4399015971014
+  },
+  {
+    "id": "d129-04",
+    "paid_fare": 156.45775338,
+    "ready_prediction": 160.94023204978774,
+    "unsafe_leakage_prediction": 156.51650775747174,
+    "request_time": 12910,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-05",
+    "paid_fare": 167.80263546,
+    "ready_prediction": 164.09190890571253,
+    "unsafe_leakage_prediction": 167.8196957826406,
+    "request_time": 12907,
+    "quote_status": "served",
+    "served_prediction": 164.09190890571253
+  },
+  {
+    "id": "d129-06",
+    "paid_fare": 129.6428638,
+    "ready_prediction": 130.31961699347858,
+    "unsafe_leakage_prediction": 129.68479611491205,
+    "request_time": 12912,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-07",
+    "paid_fare": 93.31276586,
+    "ready_prediction": 93.67421187946967,
+    "unsafe_leakage_prediction": 93.32385434359696,
+    "request_time": 12909,
+    "quote_status": "served",
+    "served_prediction": 93.67421187946965
+  },
+  {
+    "id": "d129-08",
+    "paid_fare": 92.72599801,
+    "ready_prediction": 86.66791004327592,
+    "unsafe_leakage_prediction": 92.70618643298286,
+    "request_time": 12914,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-09",
+    "paid_fare": 90.56845387,
+    "ready_prediction": 93.74295049666357,
+    "unsafe_leakage_prediction": 90.49643190821209,
+    "request_time": 12911,
+    "quote_status": "served",
+    "served_prediction": 93.74295049666357
+  },
+  {
+    "id": "d129-10",
+    "paid_fare": 151.48317875,
+    "ready_prediction": 147.06908349276935,
+    "unsafe_leakage_prediction": 151.49411456463116,
+    "request_time": 12916,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-11",
+    "paid_fare": 128.21263388,
+    "ready_prediction": 127.60159814294884,
+    "unsafe_leakage_prediction": 128.17036027168922,
+    "request_time": 12913,
+    "quote_status": "served",
+    "served_prediction": 127.60159814294884
+  },
+  {
+    "id": "d129-12",
+    "paid_fare": 114.06715364,
+    "ready_prediction": 118.03126420291689,
+    "unsafe_leakage_prediction": 114.04605812768158,
+    "request_time": 12918,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d129-13",
+    "paid_fare": 126.56761049,
+    "ready_prediction": 129.58761668302424,
+    "unsafe_leakage_prediction": 126.45784966690597,
+    "request_time": 12915,
+    "quote_status": "served",
+    "served_prediction": 129.58761668302424
+  },
+  {
+    "id": "d129-14",
+    "paid_fare": 147.79814974,
+    "ready_prediction": 146.50653293361066,
+    "unsafe_leakage_prediction": 147.70487361761147,
+    "request_time": 12920,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-00",
+    "paid_fare": 138.9197728,
+    "ready_prediction": 138.69980666396344,
+    "unsafe_leakage_prediction": 138.90575842440558,
+    "request_time": 13002,
+    "quote_status": "served",
+    "served_prediction": 138.69980666396341
+  },
+  {
+    "id": "d130-01",
+    "paid_fare": 156.45580185,
+    "ready_prediction": 151.00690619285015,
+    "unsafe_leakage_prediction": 156.39765675953174,
+    "request_time": 13007,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-02",
+    "paid_fare": 67.69916849,
+    "ready_prediction": 69.98669559404975,
+    "unsafe_leakage_prediction": 67.71596311330126,
+    "request_time": 13004,
+    "quote_status": "served",
+    "served_prediction": 69.98669559404978
+  },
+  {
+    "id": "d130-03",
+    "paid_fare": 145.91146832,
+    "ready_prediction": 147.2667243797745,
+    "unsafe_leakage_prediction": 145.854826129687,
+    "request_time": 13009,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-04",
+    "paid_fare": 86.27096014,
+    "ready_prediction": 87.857589011933,
+    "unsafe_leakage_prediction": 86.35266437786144,
+    "request_time": 13006,
+    "quote_status": "served",
+    "served_prediction": 87.85758901193304
+  },
+  {
+    "id": "d130-05",
+    "paid_fare": 136.05435031,
+    "ready_prediction": 143.44896065347356,
+    "unsafe_leakage_prediction": 136.0487470431452,
+    "request_time": 13011,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-06",
+    "paid_fare": 131.81270535,
+    "ready_prediction": 128.2974177494099,
+    "unsafe_leakage_prediction": 131.80287396424686,
+    "request_time": 13008,
+    "quote_status": "served",
+    "served_prediction": 128.2974177494099
+  },
+  {
+    "id": "d130-07",
+    "paid_fare": 111.4835846,
+    "ready_prediction": 111.90747299719503,
+    "unsafe_leakage_prediction": 111.47007249741064,
+    "request_time": 13013,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-08",
+    "paid_fare": 68.59608627,
+    "ready_prediction": 73.57055358284107,
+    "unsafe_leakage_prediction": 68.61796942809262,
+    "request_time": 13010,
+    "quote_status": "served",
+    "served_prediction": 73.5705535828411
+  },
+  {
+    "id": "d130-09",
+    "paid_fare": 122.89225768,
+    "ready_prediction": 129.6934789752865,
+    "unsafe_leakage_prediction": 122.84703677761617,
+    "request_time": 13015,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-10",
+    "paid_fare": 94.03102413,
+    "ready_prediction": 92.56822935103814,
+    "unsafe_leakage_prediction": 94.08797314338742,
+    "request_time": 13012,
+    "quote_status": "served",
+    "served_prediction": 92.56822935103813
+  },
+  {
+    "id": "d130-11",
+    "paid_fare": 181.46988543,
+    "ready_prediction": 190.2896143288006,
+    "unsafe_leakage_prediction": 181.47156146040592,
+    "request_time": 13017,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-12",
+    "paid_fare": 189.51051707,
+    "ready_prediction": 187.21454129011013,
+    "unsafe_leakage_prediction": 189.46262326354008,
+    "request_time": 13014,
+    "quote_status": "served",
+    "served_prediction": 187.21454129011016
+  },
+  {
+    "id": "d130-13",
+    "paid_fare": 76.4521429,
+    "ready_prediction": 80.73373727573615,
+    "unsafe_leakage_prediction": 76.46342972573075,
+    "request_time": 13019,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d130-14",
+    "paid_fare": 150.34734841,
+    "ready_prediction": 138.93686287142623,
+    "unsafe_leakage_prediction": 150.29608398941195,
+    "request_time": 13016,
+    "quote_status": "served",
+    "served_prediction": 138.93686287142626
+  },
+  {
+    "id": "d131-00",
+    "paid_fare": 94.44486611,
+    "ready_prediction": 94.9376847736607,
+    "unsafe_leakage_prediction": 94.46019912669723,
+    "request_time": 13106,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-01",
+    "paid_fare": 87.7645034,
+    "ready_prediction": 88.31298100082121,
+    "unsafe_leakage_prediction": 87.72749030532037,
+    "request_time": 13103,
+    "quote_status": "served",
+    "served_prediction": 88.31298100082121
+  },
+  {
+    "id": "d131-02",
+    "paid_fare": 97.97567792,
+    "ready_prediction": 90.36190457626019,
+    "unsafe_leakage_prediction": 98.01336227628083,
+    "request_time": 13108,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-03",
+    "paid_fare": 111.25950676,
+    "ready_prediction": 107.8313358412013,
+    "unsafe_leakage_prediction": 111.19908239431952,
+    "request_time": 13105,
+    "quote_status": "served",
+    "served_prediction": 107.83133584120131
+  },
+  {
+    "id": "d131-04",
+    "paid_fare": 106.29850261,
+    "ready_prediction": 95.17666925733772,
+    "unsafe_leakage_prediction": 106.27886664142588,
+    "request_time": 13110,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-05",
+    "paid_fare": 95.0782106,
+    "ready_prediction": 96.20497836093604,
+    "unsafe_leakage_prediction": 94.99362664931883,
+    "request_time": 13107,
+    "quote_status": "served",
+    "served_prediction": 96.20497836093605
+  },
+  {
+    "id": "d131-06",
+    "paid_fare": 126.22657692,
+    "ready_prediction": 129.25221079228163,
+    "unsafe_leakage_prediction": 126.20984899563886,
+    "request_time": 13112,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-07",
+    "paid_fare": 88.03903974,
+    "ready_prediction": 88.81238205480473,
+    "unsafe_leakage_prediction": 88.00230905304188,
+    "request_time": 13109,
+    "quote_status": "served",
+    "served_prediction": 88.81238205480474
+  },
+  {
+    "id": "d131-08",
+    "paid_fare": 112.0486752,
+    "ready_prediction": 110.38584688412912,
+    "unsafe_leakage_prediction": 111.99933506020544,
+    "request_time": 13114,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-09",
+    "paid_fare": 142.6605975,
+    "ready_prediction": 148.84834173455653,
+    "unsafe_leakage_prediction": 142.5991620014068,
+    "request_time": 13111,
+    "quote_status": "served",
+    "served_prediction": 148.84834173455653
+  },
+  {
+    "id": "d131-10",
+    "paid_fare": 159.98849806,
+    "ready_prediction": 162.49663593873387,
+    "unsafe_leakage_prediction": 159.96778320160698,
+    "request_time": 13116,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-11",
+    "paid_fare": 86.54253886,
+    "ready_prediction": 83.68487474947698,
+    "unsafe_leakage_prediction": 86.51158862059546,
+    "request_time": 13113,
+    "quote_status": "served",
+    "served_prediction": 83.684874749477
+  },
+  {
+    "id": "d131-12",
+    "paid_fare": 72.49166016,
+    "ready_prediction": 74.69294717110311,
+    "unsafe_leakage_prediction": 72.50188747132547,
+    "request_time": 13118,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d131-13",
+    "paid_fare": 117.7886201,
+    "ready_prediction": 115.13277590857999,
+    "unsafe_leakage_prediction": 117.73227550009456,
+    "request_time": 13115,
+    "quote_status": "served",
+    "served_prediction": 115.13277590858
+  },
+  {
+    "id": "d131-14",
+    "paid_fare": 108.48063261,
+    "ready_prediction": 108.90052482422088,
+    "unsafe_leakage_prediction": 108.49398080073915,
+    "request_time": 13120,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-00",
+    "paid_fare": 87.39166836,
+    "ready_prediction": 80.0133229445115,
+    "unsafe_leakage_prediction": 87.36326140148816,
+    "request_time": 13202,
+    "quote_status": "served",
+    "served_prediction": 80.0133229445115
+  },
+  {
+    "id": "d132-01",
+    "paid_fare": 97.73929503,
+    "ready_prediction": 105.04092255672171,
+    "unsafe_leakage_prediction": 97.76494020829462,
+    "request_time": 13207,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-02",
+    "paid_fare": 75.47333952,
+    "ready_prediction": 79.39969077569963,
+    "unsafe_leakage_prediction": 75.43755183082968,
+    "request_time": 13204,
+    "quote_status": "served",
+    "served_prediction": 79.39969077569963
+  },
+  {
+    "id": "d132-03",
+    "paid_fare": 139.1028187,
+    "ready_prediction": 136.02729119351443,
+    "unsafe_leakage_prediction": 139.09338074321505,
+    "request_time": 13209,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-04",
+    "paid_fare": 132.70767371,
+    "ready_prediction": 132.03444177513924,
+    "unsafe_leakage_prediction": 132.612160151444,
+    "request_time": 13206,
+    "quote_status": "served",
+    "served_prediction": 132.03444177513924
+  },
+  {
+    "id": "d132-05",
+    "paid_fare": 104.37671821,
+    "ready_prediction": 109.50402553312821,
+    "unsafe_leakage_prediction": 104.32659104030299,
+    "request_time": 13211,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-06",
+    "paid_fare": 152.5162961,
+    "ready_prediction": 149.6667209444886,
+    "unsafe_leakage_prediction": 152.54463335548184,
+    "request_time": 13208,
+    "quote_status": "served",
+    "served_prediction": 149.66672094448856
+  },
+  {
+    "id": "d132-07",
+    "paid_fare": 145.2891021,
+    "ready_prediction": 142.8864605080795,
+    "unsafe_leakage_prediction": 145.23318466028232,
+    "request_time": 13213,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-08",
+    "paid_fare": 115.61442899,
+    "ready_prediction": 118.12110790839414,
+    "unsafe_leakage_prediction": 115.70234731073127,
+    "request_time": 13210,
+    "quote_status": "served",
+    "served_prediction": 118.12110790839414
+  },
+  {
+    "id": "d132-09",
+    "paid_fare": 125.05032528,
+    "ready_prediction": 129.16478694442065,
+    "unsafe_leakage_prediction": 125.03321682415772,
+    "request_time": 13215,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-10",
+    "paid_fare": 74.27573978,
+    "ready_prediction": 70.73114720585961,
+    "unsafe_leakage_prediction": 74.30644853414158,
+    "request_time": 13212,
+    "quote_status": "served",
+    "served_prediction": 70.73114720585961
+  },
+  {
+    "id": "d132-11",
+    "paid_fare": 84.94359443,
+    "ready_prediction": 95.7145012951869,
+    "unsafe_leakage_prediction": 84.94980630497194,
+    "request_time": 13217,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-12",
+    "paid_fare": 152.1386246,
+    "ready_prediction": 156.50270074206784,
+    "unsafe_leakage_prediction": 152.08733597607886,
+    "request_time": 13214,
+    "quote_status": "served",
+    "served_prediction": 156.50270074206784
+  },
+  {
+    "id": "d132-13",
+    "paid_fare": 125.79926482,
+    "ready_prediction": 119.83951951317648,
+    "unsafe_leakage_prediction": 125.92685432353954,
+    "request_time": 13219,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d132-14",
+    "paid_fare": 145.41221873,
+    "ready_prediction": 137.43824869530144,
+    "unsafe_leakage_prediction": 145.33698546234675,
+    "request_time": 13216,
+    "quote_status": "served",
+    "served_prediction": 137.43824869530144
+  },
+  {
+    "id": "d133-00",
+    "paid_fare": 140.395398,
+    "ready_prediction": 137.22278986597027,
+    "unsafe_leakage_prediction": 140.33755250257127,
+    "request_time": 13306,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-01",
+    "paid_fare": 102.64430891,
+    "ready_prediction": 97.27497295563462,
+    "unsafe_leakage_prediction": 102.61714291566118,
+    "request_time": 13303,
+    "quote_status": "served",
+    "served_prediction": 97.27497295563462
+  },
+  {
+    "id": "d133-02",
+    "paid_fare": 131.35174863,
+    "ready_prediction": 130.89886518288503,
+    "unsafe_leakage_prediction": 131.38981390051757,
+    "request_time": 13308,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-03",
+    "paid_fare": 121.3208356,
+    "ready_prediction": 117.12725786971181,
+    "unsafe_leakage_prediction": 121.32878831084702,
+    "request_time": 13305,
+    "quote_status": "served",
+    "served_prediction": 117.12725786971181
+  },
+  {
+    "id": "d133-04",
+    "paid_fare": 77.28863765,
+    "ready_prediction": 74.36932285598523,
+    "unsafe_leakage_prediction": 77.33137114925842,
+    "request_time": 13310,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-05",
+    "paid_fare": 124.37444528,
+    "ready_prediction": 123.82440967629195,
+    "unsafe_leakage_prediction": 124.39232975720682,
+    "request_time": 13307,
+    "quote_status": "served",
+    "served_prediction": 123.82440967629195
+  },
+  {
+    "id": "d133-06",
+    "paid_fare": 140.87777319,
+    "ready_prediction": 138.2289194462963,
+    "unsafe_leakage_prediction": 140.91831687233412,
+    "request_time": 13312,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-07",
+    "paid_fare": 137.7039337,
+    "ready_prediction": 136.8235036362967,
+    "unsafe_leakage_prediction": 137.77113606770675,
+    "request_time": 13309,
+    "quote_status": "served",
+    "served_prediction": 136.8235036362967
+  },
+  {
+    "id": "d133-08",
+    "paid_fare": 149.34989011,
+    "ready_prediction": 150.48232930852691,
+    "unsafe_leakage_prediction": 149.31582465127062,
+    "request_time": 13314,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-09",
+    "paid_fare": 100.07128041,
+    "ready_prediction": 103.7431685782073,
+    "unsafe_leakage_prediction": 100.10374713854311,
+    "request_time": 13311,
+    "quote_status": "served",
+    "served_prediction": 103.74316857820729
+  },
+  {
+    "id": "d133-10",
+    "paid_fare": 112.41069467,
+    "ready_prediction": 117.34278373683334,
+    "unsafe_leakage_prediction": 112.39318976885788,
+    "request_time": 13316,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-11",
+    "paid_fare": 139.79011131,
+    "ready_prediction": 133.33786820214922,
+    "unsafe_leakage_prediction": 139.72399517072273,
+    "request_time": 13313,
+    "quote_status": "served",
+    "served_prediction": 133.33786820214922
+  },
+  {
+    "id": "d133-12",
+    "paid_fare": 117.95413543,
+    "ready_prediction": 117.12725786971181,
+    "unsafe_leakage_prediction": 117.93463439837964,
+    "request_time": 13318,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d133-13",
+    "paid_fare": 153.46380651,
+    "ready_prediction": 153.49529397337105,
+    "unsafe_leakage_prediction": 153.51346551117172,
+    "request_time": 13315,
+    "quote_status": "served",
+    "served_prediction": 153.49529397337105
+  },
+  {
+    "id": "d133-14",
+    "paid_fare": 143.37868273,
+    "ready_prediction": 140.77005579472933,
+    "unsafe_leakage_prediction": 143.3753200764361,
+    "request_time": 13320,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-00",
+    "paid_fare": 79.98273507,
+    "ready_prediction": 74.58045203761037,
+    "unsafe_leakage_prediction": 79.97637914377583,
+    "request_time": 13402,
+    "quote_status": "served",
+    "served_prediction": 74.58045203761037
+  },
+  {
+    "id": "d134-01",
+    "paid_fare": 145.50338097,
+    "ready_prediction": 144.49273962311264,
+    "unsafe_leakage_prediction": 145.47657660268777,
+    "request_time": 13407,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-02",
+    "paid_fare": 86.01613171,
+    "ready_prediction": 91.14773092702359,
+    "unsafe_leakage_prediction": 86.00769353271608,
+    "request_time": 13404,
+    "quote_status": "served",
+    "served_prediction": 91.1477309270236
+  },
+  {
+    "id": "d134-03",
+    "paid_fare": 100.09424433,
+    "ready_prediction": 95.16799586101007,
+    "unsafe_leakage_prediction": 100.09905305880932,
+    "request_time": 13409,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-04",
+    "paid_fare": 179.00788021,
+    "ready_prediction": 172.34459625441718,
+    "unsafe_leakage_prediction": 178.91037714861386,
+    "request_time": 13406,
+    "quote_status": "served",
+    "served_prediction": 172.34459625441718
+  },
+  {
+    "id": "d134-05",
+    "paid_fare": 113.75957466,
+    "ready_prediction": 112.56957666795945,
+    "unsafe_leakage_prediction": 113.8097732490765,
+    "request_time": 13411,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-06",
+    "paid_fare": 110.32471333,
+    "ready_prediction": 106.56961798673056,
+    "unsafe_leakage_prediction": 110.43342592440727,
+    "request_time": 13408,
+    "quote_status": "served",
+    "served_prediction": 106.56961798673056
+  },
+  {
+    "id": "d134-07",
+    "paid_fare": 100.30485704,
+    "ready_prediction": 97.54036897264099,
+    "unsafe_leakage_prediction": 100.3028337742966,
+    "request_time": 13413,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-08",
+    "paid_fare": 129.2634805,
+    "ready_prediction": 124.39720762685418,
+    "unsafe_leakage_prediction": 129.2510853256294,
+    "request_time": 13410,
+    "quote_status": "served",
+    "served_prediction": 124.39720762685421
+  },
+  {
+    "id": "d134-09",
+    "paid_fare": 144.42888984,
+    "ready_prediction": 137.98019771011786,
+    "unsafe_leakage_prediction": 144.50074918682012,
+    "request_time": 13415,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-10",
+    "paid_fare": 120.42543354,
+    "ready_prediction": 114.13892586989773,
+    "unsafe_leakage_prediction": 120.43966842913677,
+    "request_time": 13412,
+    "quote_status": "served",
+    "served_prediction": 114.13892586989773
+  },
+  {
+    "id": "d134-11",
+    "paid_fare": 165.5214861,
+    "ready_prediction": 164.8104604279501,
+    "unsafe_leakage_prediction": 165.47985394373393,
+    "request_time": 13417,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-12",
+    "paid_fare": 176.64734405,
+    "ready_prediction": 174.414746871349,
+    "unsafe_leakage_prediction": 176.66455677863723,
+    "request_time": 13414,
+    "quote_status": "served",
+    "served_prediction": 174.41474687134897
+  },
+  {
+    "id": "d134-13",
+    "paid_fare": 123.52245503,
+    "ready_prediction": 130.12213330971235,
+    "unsafe_leakage_prediction": 123.53148051701729,
+    "request_time": 13419,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d134-14",
+    "paid_fare": 154.19438528,
+    "ready_prediction": 151.2951668266715,
+    "unsafe_leakage_prediction": 154.25328846227077,
+    "request_time": 13416,
+    "quote_status": "served",
+    "served_prediction": 151.2951668266715
+  },
+  {
+    "id": "d135-00",
+    "paid_fare": 93.03307582,
+    "ready_prediction": 90.51315825464629,
+    "unsafe_leakage_prediction": 93.01384173427918,
+    "request_time": 13506,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-01",
+    "paid_fare": 137.97355549,
+    "ready_prediction": 138.7625559234315,
+    "unsafe_leakage_prediction": 137.95893332170877,
+    "request_time": 13503,
+    "quote_status": "served",
+    "served_prediction": 138.7625559234315
+  },
+  {
+    "id": "d135-02",
+    "paid_fare": 113.80164463,
+    "ready_prediction": 114.3244611686262,
+    "unsafe_leakage_prediction": 113.83893431975049,
+    "request_time": 13508,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-03",
+    "paid_fare": 97.8259169,
+    "ready_prediction": 98.02832578440312,
+    "unsafe_leakage_prediction": 97.89653658272086,
+    "request_time": 13505,
+    "quote_status": "served",
+    "served_prediction": 98.02832578440312
+  },
+  {
+    "id": "d135-04",
+    "paid_fare": 126.28116677,
+    "ready_prediction": 133.22070024580108,
+    "unsafe_leakage_prediction": 126.30302554912844,
+    "request_time": 13510,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-05",
+    "paid_fare": 153.93324064,
+    "ready_prediction": 152.1052334989224,
+    "unsafe_leakage_prediction": 153.88751268371303,
+    "request_time": 13507,
+    "quote_status": "served",
+    "served_prediction": 152.10523349892242
+  },
+  {
+    "id": "d135-06",
+    "paid_fare": 80.3866983,
+    "ready_prediction": 77.87225525044472,
+    "unsafe_leakage_prediction": 80.34609239968105,
+    "request_time": 13512,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-07",
+    "paid_fare": 110.0025901,
+    "ready_prediction": 112.63315642240137,
+    "unsafe_leakage_prediction": 109.99009885501047,
+    "request_time": 13509,
+    "quote_status": "served",
+    "served_prediction": 112.63315642240141
+  },
+  {
+    "id": "d135-08",
+    "paid_fare": 93.3234561,
+    "ready_prediction": 91.18840837442109,
+    "unsafe_leakage_prediction": 93.21709872730378,
+    "request_time": 13514,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-09",
+    "paid_fare": 103.49693044,
+    "ready_prediction": 112.63315642240137,
+    "unsafe_leakage_prediction": 103.4772260597058,
+    "request_time": 13511,
+    "quote_status": "served",
+    "served_prediction": 112.63315642240141
+  },
+  {
+    "id": "d135-10",
+    "paid_fare": 91.05980814,
+    "ready_prediction": 95.93927069074881,
+    "unsafe_leakage_prediction": 91.03342611325023,
+    "request_time": 13516,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-11",
+    "paid_fare": 91.28928066,
+    "ready_prediction": 91.96333929106193,
+    "unsafe_leakage_prediction": 91.28919296320204,
+    "request_time": 13513,
+    "quote_status": "served",
+    "served_prediction": 91.96333929106194
+  },
+  {
+    "id": "d135-12",
+    "paid_fare": 129.95104518,
+    "ready_prediction": 127.1820943469716,
+    "unsafe_leakage_prediction": 129.93342478067567,
+    "request_time": 13518,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d135-13",
+    "paid_fare": 78.38616836,
+    "ready_prediction": 81.89639109390164,
+    "unsafe_leakage_prediction": 78.38856757171382,
+    "request_time": 13515,
+    "quote_status": "served",
+    "served_prediction": 81.89639109390166
+  },
+  {
+    "id": "d135-14",
+    "paid_fare": 140.1316953,
+    "ready_prediction": 137.97614269473877,
+    "unsafe_leakage_prediction": 140.06188729723002,
+    "request_time": 13520,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-00",
+    "paid_fare": 127.29869956,
+    "ready_prediction": 132.81699732902112,
+    "unsafe_leakage_prediction": 127.30529801357935,
+    "request_time": 13602,
+    "quote_status": "served",
+    "served_prediction": 132.81699732902112
+  },
+  {
+    "id": "d136-01",
+    "paid_fare": 79.10962883,
+    "ready_prediction": 74.65590726088807,
+    "unsafe_leakage_prediction": 79.12152724099032,
+    "request_time": 13607,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-02",
+    "paid_fare": 97.93267487,
+    "ready_prediction": 94.27369564282837,
+    "unsafe_leakage_prediction": 97.98306197378233,
+    "request_time": 13604,
+    "quote_status": "served",
+    "served_prediction": 94.27369564282839
+  },
+  {
+    "id": "d136-03",
+    "paid_fare": 86.46324107,
+    "ready_prediction": 92.37716859154422,
+    "unsafe_leakage_prediction": 86.51272102657308,
+    "request_time": 13609,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-04",
+    "paid_fare": 152.42377202,
+    "ready_prediction": 152.9051076879557,
+    "unsafe_leakage_prediction": 152.3762909077998,
+    "request_time": 13606,
+    "quote_status": "served",
+    "served_prediction": 152.90510768795568
+  },
+  {
+    "id": "d136-05",
+    "paid_fare": 117.12511001,
+    "ready_prediction": 114.67053956538074,
+    "unsafe_leakage_prediction": 117.08619393113072,
+    "request_time": 13611,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-06",
+    "paid_fare": 112.97508055,
+    "ready_prediction": 112.59156056185911,
+    "unsafe_leakage_prediction": 112.98530464441451,
+    "request_time": 13608,
+    "quote_status": "served",
+    "served_prediction": 112.59156056185911
+  },
+  {
+    "id": "d136-07",
+    "paid_fare": 158.65365958,
+    "ready_prediction": 155.1103683028576,
+    "unsafe_leakage_prediction": 158.62884693980308,
+    "request_time": 13613,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-08",
+    "paid_fare": 147.49535434,
+    "ready_prediction": 146.4000169153901,
+    "unsafe_leakage_prediction": 147.5223617760496,
+    "request_time": 13610,
+    "quote_status": "served",
+    "served_prediction": 146.4000169153901
+  },
+  {
+    "id": "d136-09",
+    "paid_fare": 105.26720994,
+    "ready_prediction": 101.44813107365856,
+    "unsafe_leakage_prediction": 105.32341650816983,
+    "request_time": 13615,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-10",
+    "paid_fare": 141.57309381,
+    "ready_prediction": 146.08793535457087,
+    "unsafe_leakage_prediction": 141.64018954230986,
+    "request_time": 13612,
+    "quote_status": "served",
+    "served_prediction": 146.0879353545709
+  },
+  {
+    "id": "d136-11",
+    "paid_fare": 147.14833478,
+    "ready_prediction": 146.08793535457087,
+    "unsafe_leakage_prediction": 147.10359159257712,
+    "request_time": 13617,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-12",
+    "paid_fare": 78.70731637,
+    "ready_prediction": 75.36633485711593,
+    "unsafe_leakage_prediction": 78.78007445076781,
+    "request_time": 13614,
+    "quote_status": "served",
+    "served_prediction": 75.36633485711594
+  },
+  {
+    "id": "d136-13",
+    "paid_fare": 112.72341794,
+    "ready_prediction": 114.67053956538074,
+    "unsafe_leakage_prediction": 112.77709570215715,
+    "request_time": 13619,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d136-14",
+    "paid_fare": 158.61362367,
+    "ready_prediction": 160.6798386201768,
+    "unsafe_leakage_prediction": 158.65187660879673,
+    "request_time": 13616,
+    "quote_status": "served",
+    "served_prediction": 160.6798386201768
+  },
+  {
+    "id": "d137-00",
+    "paid_fare": 92.54081055,
+    "ready_prediction": 89.35627490933896,
+    "unsafe_leakage_prediction": 92.5201595747458,
+    "request_time": 13706,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-01",
+    "paid_fare": 154.97543484,
+    "ready_prediction": 154.12160421519275,
+    "unsafe_leakage_prediction": 155.0189591869522,
+    "request_time": 13703,
+    "quote_status": "served",
+    "served_prediction": 154.12160421519275
+  },
+  {
+    "id": "d137-02",
+    "paid_fare": 136.24809996,
+    "ready_prediction": 134.1375484388304,
+    "unsafe_leakage_prediction": 136.143326897175,
+    "request_time": 13708,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-03",
+    "paid_fare": 118.35283818,
+    "ready_prediction": 113.76923739540737,
+    "unsafe_leakage_prediction": 118.29503426726508,
+    "request_time": 13705,
+    "quote_status": "served",
+    "served_prediction": 113.76923739540736
+  },
+  {
+    "id": "d137-04",
+    "paid_fare": 141.58116562,
+    "ready_prediction": 141.3638939913383,
+    "unsafe_leakage_prediction": 141.6314570008329,
+    "request_time": 13710,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-05",
+    "paid_fare": 108.726752,
+    "ready_prediction": 107.27335006088023,
+    "unsafe_leakage_prediction": 108.72244606924127,
+    "request_time": 13707,
+    "quote_status": "served",
+    "served_prediction": 107.27335006088022
+  },
+  {
+    "id": "d137-06",
+    "paid_fare": 123.13162056,
+    "ready_prediction": 120.45064993552707,
+    "unsafe_leakage_prediction": 123.15766163580814,
+    "request_time": 13712,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-07",
+    "paid_fare": 104.29564169,
+    "ready_prediction": 104.13454756663405,
+    "unsafe_leakage_prediction": 104.33148857557941,
+    "request_time": 13709,
+    "quote_status": "served",
+    "served_prediction": 104.13454756663405
+  },
+  {
+    "id": "d137-08",
+    "paid_fare": 113.13351363,
+    "ready_prediction": 116.63562618809975,
+    "unsafe_leakage_prediction": 113.0292248824154,
+    "request_time": 13714,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-09",
+    "paid_fare": 142.47882931,
+    "ready_prediction": 147.00381530786436,
+    "unsafe_leakage_prediction": 142.55776266592864,
+    "request_time": 13711,
+    "quote_status": "served",
+    "served_prediction": 147.0038153078644
+  },
+  {
+    "id": "d137-10",
+    "paid_fare": 131.56458621,
+    "ready_prediction": 129.79610364681582,
+    "unsafe_leakage_prediction": 131.5745712915019,
+    "request_time": 13716,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-11",
+    "paid_fare": 150.40327297,
+    "ready_prediction": 153.35221499033935,
+    "unsafe_leakage_prediction": 150.44404685029517,
+    "request_time": 13713,
+    "quote_status": "served",
+    "served_prediction": 153.35221499033935
+  },
+  {
+    "id": "d137-12",
+    "paid_fare": 74.78999668,
+    "ready_prediction": 76.88596398914542,
+    "unsafe_leakage_prediction": 74.86041087475397,
+    "request_time": 13718,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d137-13",
+    "paid_fare": 171.24351112,
+    "ready_prediction": 176.00488358779202,
+    "unsafe_leakage_prediction": 171.2833417449827,
+    "request_time": 13715,
+    "quote_status": "served",
+    "served_prediction": 176.00488358779202
+  },
+  {
+    "id": "d137-14",
+    "paid_fare": 93.93764337,
+    "ready_prediction": 93.5862434814574,
+    "unsafe_leakage_prediction": 93.9734974022472,
+    "request_time": 13720,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-00",
+    "paid_fare": 111.47634236,
+    "ready_prediction": 120.66747116554367,
+    "unsafe_leakage_prediction": 111.44189952189855,
+    "request_time": 13802,
+    "quote_status": "served",
+    "served_prediction": 120.66747116554369
+  },
+  {
+    "id": "d138-01",
+    "paid_fare": 116.76224585,
+    "ready_prediction": 120.16949757465302,
+    "unsafe_leakage_prediction": 116.7765129177129,
+    "request_time": 13807,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-02",
+    "paid_fare": 133.02937737,
+    "ready_prediction": 135.67583787559724,
+    "unsafe_leakage_prediction": 133.0179805964529,
+    "request_time": 13804,
+    "quote_status": "served",
+    "served_prediction": 135.67583787559724
+  },
+  {
+    "id": "d138-03",
+    "paid_fare": 88.3273795,
+    "ready_prediction": 94.03698467891547,
+    "unsafe_leakage_prediction": 88.3544577921356,
+    "request_time": 13809,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-04",
+    "paid_fare": 86.52633031,
+    "ready_prediction": 87.50418544741258,
+    "unsafe_leakage_prediction": 86.57083575698526,
+    "request_time": 13806,
+    "quote_status": "served",
+    "served_prediction": 87.50418544741261
+  },
+  {
+    "id": "d138-05",
+    "paid_fare": 138.67670233,
+    "ready_prediction": 140.76300316180215,
+    "unsafe_leakage_prediction": 138.56892936129816,
+    "request_time": 13811,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-06",
+    "paid_fare": 141.62347545,
+    "ready_prediction": 140.76300316180215,
+    "unsafe_leakage_prediction": 141.6405605655557,
+    "request_time": 13808,
+    "quote_status": "served",
+    "served_prediction": 140.76300316180215
+  },
+  {
+    "id": "d138-07",
+    "paid_fare": 82.0361086,
+    "ready_prediction": 80.2276424280668,
+    "unsafe_leakage_prediction": 82.06702474015749,
+    "request_time": 13813,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-08",
+    "paid_fare": 101.57857342,
+    "ready_prediction": 100.8151862514665,
+    "unsafe_leakage_prediction": 101.60629044035588,
+    "request_time": 13810,
+    "quote_status": "served",
+    "served_prediction": 100.8151862514665
+  },
+  {
+    "id": "d138-09",
+    "paid_fare": 118.36241016,
+    "ready_prediction": 122.19194701195245,
+    "unsafe_leakage_prediction": 118.32459334051657,
+    "request_time": 13815,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-10",
+    "paid_fare": 104.59997655,
+    "ready_prediction": 108.09172927081228,
+    "unsafe_leakage_prediction": 104.65822166661813,
+    "request_time": 13812,
+    "quote_status": "served",
+    "served_prediction": 108.09172927081228
+  },
+  {
+    "id": "d138-11",
+    "paid_fare": 98.53054786,
+    "ready_prediction": 94.50224468181698,
+    "unsafe_leakage_prediction": 98.58256887155848,
+    "request_time": 13817,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-12",
+    "paid_fare": 132.85564081,
+    "ready_prediction": 134.83336804529145,
+    "unsafe_leakage_prediction": 132.79625430119614,
+    "request_time": 13814,
+    "quote_status": "served",
+    "served_prediction": 134.83336804529145
+  },
+  {
+    "id": "d138-13",
+    "paid_fare": 82.28068596,
+    "ready_prediction": 87.50418544741258,
+    "unsafe_leakage_prediction": 82.26435144600157,
+    "request_time": 13819,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d138-14",
+    "paid_fare": 83.03091717,
+    "ready_prediction": 82.24413010161682,
+    "unsafe_leakage_prediction": 82.98501330681773,
+    "request_time": 13816,
+    "quote_status": "served",
+    "served_prediction": 82.2441301016168
+  },
+  {
+    "id": "d139-00",
+    "paid_fare": 174.64207865,
+    "ready_prediction": 176.43649230407746,
+    "unsafe_leakage_prediction": 174.62932839147518,
+    "request_time": 13906,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-01",
+    "paid_fare": 106.96739451,
+    "ready_prediction": 106.15495794613093,
+    "unsafe_leakage_prediction": 106.95666481407982,
+    "request_time": 13903,
+    "quote_status": "served",
+    "served_prediction": 106.15495794613093
+  },
+  {
+    "id": "d139-02",
+    "paid_fare": 113.12317278,
+    "ready_prediction": 108.90733763485063,
+    "unsafe_leakage_prediction": 113.03553957177,
+    "request_time": 13908,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-03",
+    "paid_fare": 107.63329132,
+    "ready_prediction": 116.58929567276377,
+    "unsafe_leakage_prediction": 107.61567123177166,
+    "request_time": 13905,
+    "quote_status": "served",
+    "served_prediction": 116.58929567276375
+  },
+  {
+    "id": "d139-04",
+    "paid_fare": 84.07128126,
+    "ready_prediction": 87.92458687382002,
+    "unsafe_leakage_prediction": 84.0014071303178,
+    "request_time": 13910,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-05",
+    "paid_fare": 141.94701282,
+    "ready_prediction": 136.6848276690222,
+    "unsafe_leakage_prediction": 142.0442873722836,
+    "request_time": 13907,
+    "quote_status": "served",
+    "served_prediction": 136.6848276690222
+  },
+  {
+    "id": "d139-06",
+    "paid_fare": 177.2455127,
+    "ready_prediction": 178.49278869154062,
+    "unsafe_leakage_prediction": 177.25457161901818,
+    "request_time": 13912,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-07",
+    "paid_fare": 124.83565859,
+    "ready_prediction": 123.06247127441976,
+    "unsafe_leakage_prediction": 124.8396419121161,
+    "request_time": 13909,
+    "quote_status": "served",
+    "served_prediction": 123.06247127441975
+  },
+  {
+    "id": "d139-08",
+    "paid_fare": 93.35716704,
+    "ready_prediction": 101.07463326084594,
+    "unsafe_leakage_prediction": 93.4234509162515,
+    "request_time": 13914,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-09",
+    "paid_fare": 141.46163908,
+    "ready_prediction": 139.60714540728358,
+    "unsafe_leakage_prediction": 141.35335655661797,
+    "request_time": 13911,
+    "quote_status": "served",
+    "served_prediction": 139.60714540728358
+  },
+  {
+    "id": "d139-10",
+    "paid_fare": 82.12414269,
+    "ready_prediction": 87.92458687382002,
+    "unsafe_leakage_prediction": 82.13649160240273,
+    "request_time": 13916,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-11",
+    "paid_fare": 115.89261103,
+    "ready_prediction": 116.4398050461218,
+    "unsafe_leakage_prediction": 115.935424444881,
+    "request_time": 13913,
+    "quote_status": "served",
+    "served_prediction": 116.43980504612179
+  },
+  {
+    "id": "d139-12",
+    "paid_fare": 142.00536856,
+    "ready_prediction": 135.6844523772598,
+    "unsafe_leakage_prediction": 142.10093439171925,
+    "request_time": 13918,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d139-13",
+    "paid_fare": 77.89143564,
+    "ready_prediction": 76.95310667474196,
+    "unsafe_leakage_prediction": 77.84545458633048,
+    "request_time": 13915,
+    "quote_status": "served",
+    "served_prediction": 76.95310667474199
+  },
+  {
+    "id": "d139-14",
+    "paid_fare": 139.56779251,
+    "ready_prediction": 135.63789302575492,
+    "unsafe_leakage_prediction": 139.50745358232223,
+    "request_time": 13920,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-00",
+    "paid_fare": 116.67490404,
+    "ready_prediction": 115.88480845896122,
+    "unsafe_leakage_prediction": 116.77979403034358,
+    "request_time": 14002,
+    "quote_status": "served",
+    "served_prediction": 115.88480845896122
+  },
+  {
+    "id": "d140-01",
+    "paid_fare": 150.81375777,
+    "ready_prediction": 157.1510269800699,
+    "unsafe_leakage_prediction": 150.85939614280798,
+    "request_time": 14007,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-02",
+    "paid_fare": 139.28235411,
+    "ready_prediction": 137.29874206599274,
+    "unsafe_leakage_prediction": 139.32282201460052,
+    "request_time": 14004,
+    "quote_status": "served",
+    "served_prediction": 137.2987420659927
+  },
+  {
+    "id": "d140-03",
+    "paid_fare": 120.93038711,
+    "ready_prediction": 120.28565908665759,
+    "unsafe_leakage_prediction": 120.95317524556931,
+    "request_time": 14009,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-04",
+    "paid_fare": 102.39734087,
+    "ready_prediction": 106.58968519643022,
+    "unsafe_leakage_prediction": 102.40496666266809,
+    "request_time": 14006,
+    "quote_status": "served",
+    "served_prediction": 106.58968519643022
+  },
+  {
+    "id": "d140-05",
+    "paid_fare": 138.50820284,
+    "ready_prediction": 142.31940705074825,
+    "unsafe_leakage_prediction": 138.59230634215325,
+    "request_time": 14011,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-06",
+    "paid_fare": 156.35053335,
+    "ready_prediction": 163.78156301449414,
+    "unsafe_leakage_prediction": 156.32468569749847,
+    "request_time": 14008,
+    "quote_status": "served",
+    "served_prediction": 163.78156301449414
+  },
+  {
+    "id": "d140-07",
+    "paid_fare": 88.71709366,
+    "ready_prediction": 86.34977233604488,
+    "unsafe_leakage_prediction": 88.83845474610516,
+    "request_time": 14013,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-08",
+    "paid_fare": 78.46963465,
+    "ready_prediction": 76.76570944659622,
+    "unsafe_leakage_prediction": 78.50297655022621,
+    "request_time": 14010,
+    "quote_status": "served",
+    "served_prediction": 76.76570944659625
+  },
+  {
+    "id": "d140-09",
+    "paid_fare": 88.03121615,
+    "ready_prediction": 82.47427136552754,
+    "unsafe_leakage_prediction": 88.00705282764099,
+    "request_time": 14015,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-10",
+    "paid_fare": 184.88480959,
+    "ready_prediction": 179.30008451789777,
+    "unsafe_leakage_prediction": 184.89805140086992,
+    "request_time": 14012,
+    "quote_status": "served",
+    "served_prediction": 179.3000845178978
+  },
+  {
+    "id": "d140-11",
+    "paid_fare": 137.281153,
+    "ready_prediction": 136.01847217551253,
+    "unsafe_leakage_prediction": 137.310000429454,
+    "request_time": 14017,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-12",
+    "paid_fare": 101.5700827,
+    "ready_prediction": 106.58968519643022,
+    "unsafe_leakage_prediction": 101.55640574125562,
+    "request_time": 14014,
+    "quote_status": "served",
+    "served_prediction": 106.58968519643022
+  },
+  {
+    "id": "d140-13",
+    "paid_fare": 162.29317705,
+    "ready_prediction": 159.20455252163933,
+    "unsafe_leakage_prediction": 162.28701679862735,
+    "request_time": 14019,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d140-14",
+    "paid_fare": 135.48108892,
+    "ready_prediction": 136.54281084253955,
+    "unsafe_leakage_prediction": 135.41423136704387,
+    "request_time": 14016,
+    "quote_status": "served",
+    "served_prediction": 136.54281084253952
+  },
+  {
+    "id": "d141-00",
+    "paid_fare": 73.33222673,
+    "ready_prediction": 79.48593936571343,
+    "unsafe_leakage_prediction": 73.32009108451633,
+    "request_time": 14106,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-01",
+    "paid_fare": 120.86830504,
+    "ready_prediction": 119.92576810319031,
+    "unsafe_leakage_prediction": 120.83126398644151,
+    "request_time": 14103,
+    "quote_status": "served",
+    "served_prediction": 119.92576810319032
+  },
+  {
+    "id": "d141-02",
+    "paid_fare": 100.63577018,
+    "ready_prediction": 103.14563581604509,
+    "unsafe_leakage_prediction": 100.64846520610548,
+    "request_time": 14108,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-03",
+    "paid_fare": 90.17491432,
+    "ready_prediction": 89.94269800184642,
+    "unsafe_leakage_prediction": 90.2284422280976,
+    "request_time": 14105,
+    "quote_status": "served",
+    "served_prediction": 89.94269800184642
+  },
+  {
+    "id": "d141-04",
+    "paid_fare": 157.94327881,
+    "ready_prediction": 156.57585660398055,
+    "unsafe_leakage_prediction": 157.9679452866477,
+    "request_time": 14110,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-05",
+    "paid_fare": 77.412715,
+    "ready_prediction": 80.61710517891946,
+    "unsafe_leakage_prediction": 77.52888872918933,
+    "request_time": 14107,
+    "quote_status": "served",
+    "served_prediction": 80.61710517891947
+  },
+  {
+    "id": "d141-06",
+    "paid_fare": 114.02912546,
+    "ready_prediction": 116.95962885832385,
+    "unsafe_leakage_prediction": 114.01236445978294,
+    "request_time": 14112,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-07",
+    "paid_fare": 151.30474188,
+    "ready_prediction": 147.35033962491048,
+    "unsafe_leakage_prediction": 151.32741903520326,
+    "request_time": 14109,
+    "quote_status": "served",
+    "served_prediction": 147.35033962491048
+  },
+  {
+    "id": "d141-08",
+    "paid_fare": 131.41258409,
+    "ready_prediction": 136.06912298135276,
+    "unsafe_leakage_prediction": 131.5151136425121,
+    "request_time": 14114,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-09",
+    "paid_fare": 137.71685587,
+    "ready_prediction": 136.06912298135276,
+    "unsafe_leakage_prediction": 137.7614570758281,
+    "request_time": 14111,
+    "quote_status": "served",
+    "served_prediction": 136.0691229813528
+  },
+  {
+    "id": "d141-10",
+    "paid_fare": 152.28324379,
+    "ready_prediction": 143.39851743954515,
+    "unsafe_leakage_prediction": 152.2780578322265,
+    "request_time": 14116,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-11",
+    "paid_fare": 83.16575316,
+    "ready_prediction": 80.61710517891946,
+    "unsafe_leakage_prediction": 83.09463463658199,
+    "request_time": 14113,
+    "quote_status": "served",
+    "served_prediction": 80.61710517891947
+  },
+  {
+    "id": "d141-12",
+    "paid_fare": 105.95868572,
+    "ready_prediction": 98.26016449690799,
+    "unsafe_leakage_prediction": 105.91157722339932,
+    "request_time": 14118,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d141-13",
+    "paid_fare": 133.10427191,
+    "ready_prediction": 136.4803246077221,
+    "unsafe_leakage_prediction": 132.99060819341025,
+    "request_time": 14115,
+    "quote_status": "served",
+    "served_prediction": 136.4803246077221
+  },
+  {
+    "id": "d141-14",
+    "paid_fare": 152.91191096,
+    "ready_prediction": 157.95832280642708,
+    "unsafe_leakage_prediction": 152.82428475693735,
+    "request_time": 14120,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-00",
+    "paid_fare": 108.74205285,
+    "ready_prediction": 103.72165099412585,
+    "unsafe_leakage_prediction": 108.72029191570329,
+    "request_time": 14202,
+    "quote_status": "served",
+    "served_prediction": 103.72165099412585
+  },
+  {
+    "id": "d142-01",
+    "paid_fare": 121.3333537,
+    "ready_prediction": 117.75029960931867,
+    "unsafe_leakage_prediction": 121.37493288351831,
+    "request_time": 14207,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-02",
+    "paid_fare": 82.16294187,
+    "ready_prediction": 84.10271724771047,
+    "unsafe_leakage_prediction": 82.25039242132122,
+    "request_time": 14204,
+    "quote_status": "served",
+    "served_prediction": 84.10271724771049
+  },
+  {
+    "id": "d142-03",
+    "paid_fare": 169.24840217,
+    "ready_prediction": 165.31580013629045,
+    "unsafe_leakage_prediction": 169.279916752839,
+    "request_time": 14209,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-04",
+    "paid_fare": 55.83928394,
+    "ready_prediction": 55.38055788049034,
+    "unsafe_leakage_prediction": 55.93524981254003,
+    "request_time": 14206,
+    "quote_status": "served",
+    "served_prediction": 55.38055788049037
+  },
+  {
+    "id": "d142-05",
+    "paid_fare": 148.6820644,
+    "ready_prediction": 146.08178472619485,
+    "unsafe_leakage_prediction": 148.63946419202,
+    "request_time": 14211,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-06",
+    "paid_fare": 156.63353934,
+    "ready_prediction": 157.87357071131623,
+    "unsafe_leakage_prediction": 156.65681414975296,
+    "request_time": 14208,
+    "quote_status": "served",
+    "served_prediction": 157.87357071131623
+  },
+  {
+    "id": "d142-07",
+    "paid_fare": 162.0461396,
+    "ready_prediction": 160.8108316366725,
+    "unsafe_leakage_prediction": 162.08494719203415,
+    "request_time": 14213,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-08",
+    "paid_fare": 103.15460282,
+    "ready_prediction": 104.69026107111016,
+    "unsafe_leakage_prediction": 103.0202988058285,
+    "request_time": 14210,
+    "quote_status": "served",
+    "served_prediction": 104.69026107111016
+  },
+  {
+    "id": "d142-09",
+    "paid_fare": 137.52259261,
+    "ready_prediction": 136.88750219128482,
+    "unsafe_leakage_prediction": 137.52090846178916,
+    "request_time": 14215,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-10",
+    "paid_fare": 111.30014031,
+    "ready_prediction": 111.33753765160327,
+    "unsafe_leakage_prediction": 111.36666992486222,
+    "request_time": 14212,
+    "quote_status": "served",
+    "served_prediction": 111.33753765160326
+  },
+  {
+    "id": "d142-11",
+    "paid_fare": 153.87950938,
+    "ready_prediction": 150.80702224749626,
+    "unsafe_leakage_prediction": 153.80808581848092,
+    "request_time": 14217,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-12",
+    "paid_fare": 139.40836725,
+    "ready_prediction": 140.8369084634871,
+    "unsafe_leakage_prediction": 139.40673523762956,
+    "request_time": 14214,
+    "quote_status": "served",
+    "served_prediction": 140.83690846348708
+  },
+  {
+    "id": "d142-13",
+    "paid_fare": 135.17579446,
+    "ready_prediction": 140.01042043243046,
+    "unsafe_leakage_prediction": 135.24204127011015,
+    "request_time": 14219,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d142-14",
+    "paid_fare": 91.81705044,
+    "ready_prediction": 87.906176224991,
+    "unsafe_leakage_prediction": 91.8377538930456,
+    "request_time": 14216,
+    "quote_status": "served",
+    "served_prediction": 87.90617622499101
+  },
+  {
+    "id": "d143-00",
+    "paid_fare": 112.55192799,
+    "ready_prediction": 112.14206263206671,
+    "unsafe_leakage_prediction": 112.6196567473854,
+    "request_time": 14306,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-01",
+    "paid_fare": 125.32497499,
+    "ready_prediction": 123.14324958926285,
+    "unsafe_leakage_prediction": 125.34978745042012,
+    "request_time": 14303,
+    "quote_status": "served",
+    "served_prediction": 123.14324958926285
+  },
+  {
+    "id": "d143-02",
+    "paid_fare": 124.38126044,
+    "ready_prediction": 123.14324958926285,
+    "unsafe_leakage_prediction": 124.40036298478194,
+    "request_time": 14308,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-03",
+    "paid_fare": 143.64868965,
+    "ready_prediction": 149.2155826343588,
+    "unsafe_leakage_prediction": 143.6335590398207,
+    "request_time": 14305,
+    "quote_status": "served",
+    "served_prediction": 149.2155826343588
+  },
+  {
+    "id": "d143-04",
+    "paid_fare": 164.13780339,
+    "ready_prediction": 159.0186676294636,
+    "unsafe_leakage_prediction": 164.11571141824115,
+    "request_time": 14310,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-05",
+    "paid_fare": 142.70671727,
+    "ready_prediction": 138.39048442849696,
+    "unsafe_leakage_prediction": 142.76738747371257,
+    "request_time": 14307,
+    "quote_status": "served",
+    "served_prediction": 138.39048442849693
+  },
+  {
+    "id": "d143-06",
+    "paid_fare": 152.23440075,
+    "ready_prediction": 146.8530595559336,
+    "unsafe_leakage_prediction": 152.2300184714066,
+    "request_time": 14312,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-07",
+    "paid_fare": 156.83561991,
+    "ready_prediction": 158.6919499212483,
+    "unsafe_leakage_prediction": 156.7548995264258,
+    "request_time": 14309,
+    "quote_status": "served",
+    "served_prediction": 158.69194992124827
+  },
+  {
+    "id": "d143-08",
+    "paid_fare": 125.38683728,
+    "ready_prediction": 126.75752755967515,
+    "unsafe_leakage_prediction": 125.36743065004926,
+    "request_time": 14314,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-09",
+    "paid_fare": 149.71381049,
+    "ready_prediction": 152.08987954240234,
+    "unsafe_leakage_prediction": 149.7566752724257,
+    "request_time": 14311,
+    "quote_status": "served",
+    "served_prediction": 152.08987954240237
+  },
+  {
+    "id": "d143-10",
+    "paid_fare": 77.99927153,
+    "ready_prediction": 79.04628378508775,
+    "unsafe_leakage_prediction": 78.02303218603325,
+    "request_time": 14316,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-11",
+    "paid_fare": 78.87570657,
+    "ready_prediction": 76.80310598918443,
+    "unsafe_leakage_prediction": 78.86648240962928,
+    "request_time": 14313,
+    "quote_status": "served",
+    "served_prediction": 76.80310598918443
+  },
+  {
+    "id": "d143-12",
+    "paid_fare": 51.29397603,
+    "ready_prediction": 57.74361521164646,
+    "unsafe_leakage_prediction": 51.34090535388441,
+    "request_time": 14318,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d143-13",
+    "paid_fare": 136.00299643,
+    "ready_prediction": 138.92313563320516,
+    "unsafe_leakage_prediction": 136.00422099208447,
+    "request_time": 14315,
+    "quote_status": "served",
+    "served_prediction": 138.92313563320513
+  },
+  {
+    "id": "d143-14",
+    "paid_fare": 90.71964544,
+    "ready_prediction": 91.55451880866701,
+    "unsafe_leakage_prediction": 90.62486917650577,
+    "request_time": 14320,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-00",
+    "paid_fare": 123.54759008,
+    "ready_prediction": 121.3427012221388,
+    "unsafe_leakage_prediction": 123.57274997055892,
+    "request_time": 14402,
+    "quote_status": "served",
+    "served_prediction": 121.34270122213881
+  },
+  {
+    "id": "d144-01",
+    "paid_fare": 138.90109368,
+    "ready_prediction": 141.43823321839724,
+    "unsafe_leakage_prediction": 138.93373979367558,
+    "request_time": 14407,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-02",
+    "paid_fare": 127.33674862,
+    "ready_prediction": 119.766670325589,
+    "unsafe_leakage_prediction": 127.26177762086522,
+    "request_time": 14404,
+    "quote_status": "served",
+    "served_prediction": 119.766670325589
+  },
+  {
+    "id": "d144-03",
+    "paid_fare": 77.85005044,
+    "ready_prediction": 77.98058733973245,
+    "unsafe_leakage_prediction": 77.79862415449679,
+    "request_time": 14409,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-04",
+    "paid_fare": 123.30347235,
+    "ready_prediction": 119.85875062422906,
+    "unsafe_leakage_prediction": 123.30428277665564,
+    "request_time": 14406,
+    "quote_status": "served",
+    "served_prediction": 119.85875062422906
+  },
+  {
+    "id": "d144-05",
+    "paid_fare": 146.46457053,
+    "ready_prediction": 149.77222710398195,
+    "unsafe_leakage_prediction": 146.4498236865048,
+    "request_time": 14411,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-06",
+    "paid_fare": 82.26180169,
+    "ready_prediction": 80.90287248466193,
+    "unsafe_leakage_prediction": 82.28732005052876,
+    "request_time": 14408,
+    "quote_status": "served",
+    "served_prediction": 80.90287248466194
+  },
+  {
+    "id": "d144-07",
+    "paid_fare": 102.52249536,
+    "ready_prediction": 103.50184841617305,
+    "unsafe_leakage_prediction": 102.46401756571991,
+    "request_time": 14413,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-08",
+    "paid_fare": 86.76535096,
+    "ready_prediction": 87.08620280604329,
+    "unsafe_leakage_prediction": 86.76712524675719,
+    "request_time": 14410,
+    "quote_status": "served",
+    "served_prediction": 87.0862028060433
+  },
+  {
+    "id": "d144-09",
+    "paid_fare": 82.88656701,
+    "ready_prediction": 81.3078644859756,
+    "unsafe_leakage_prediction": 82.83859011972697,
+    "request_time": 14415,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-10",
+    "paid_fare": 94.02226619,
+    "ready_prediction": 95.14311714263154,
+    "unsafe_leakage_prediction": 94.07829976318972,
+    "request_time": 14412,
+    "quote_status": "served",
+    "served_prediction": 95.14311714263157
+  },
+  {
+    "id": "d144-11",
+    "paid_fare": 120.77271705,
+    "ready_prediction": 118.21811859398913,
+    "unsafe_leakage_prediction": 120.79750419561792,
+    "request_time": 14417,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-12",
+    "paid_fare": 104.93426145,
+    "ready_prediction": 103.50184841617305,
+    "unsafe_leakage_prediction": 105.00284453163137,
+    "request_time": 14414,
+    "quote_status": "served",
+    "served_prediction": 103.50184841617303
+  },
+  {
+    "id": "d144-13",
+    "paid_fare": 109.64006842,
+    "ready_prediction": 106.30359314077657,
+    "unsafe_leakage_prediction": 109.67636052859201,
+    "request_time": 14419,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d144-14",
+    "paid_fare": 136.13402887,
+    "ready_prediction": 139.6189552396662,
+    "unsafe_leakage_prediction": 136.06643710154904,
+    "request_time": 14416,
+    "quote_status": "served",
+    "served_prediction": 139.61895523966618
+  },
+  {
+    "id": "d145-00",
+    "paid_fare": 68.93434816,
+    "ready_prediction": 64.2529598130728,
+    "unsafe_leakage_prediction": 68.83905914637467,
+    "request_time": 14506,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-01",
+    "paid_fare": 125.63048559,
+    "ready_prediction": 127.64855756444638,
+    "unsafe_leakage_prediction": 125.65368458233748,
+    "request_time": 14503,
+    "quote_status": "served",
+    "served_prediction": 127.64855756444635
+  },
+  {
+    "id": "d145-02",
+    "paid_fare": 141.94369635,
+    "ready_prediction": 140.37028911946047,
+    "unsafe_leakage_prediction": 141.95871087870603,
+    "request_time": 14508,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-03",
+    "paid_fare": 136.3204379,
+    "ready_prediction": 143.26710848023976,
+    "unsafe_leakage_prediction": 136.23293857568282,
+    "request_time": 14505,
+    "quote_status": "served",
+    "served_prediction": 143.26710848023976
+  },
+  {
+    "id": "d145-04",
+    "paid_fare": 101.96830256,
+    "ready_prediction": 97.6421813970913,
+    "unsafe_leakage_prediction": 101.9811161279152,
+    "request_time": 14510,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-05",
+    "paid_fare": 97.06710351,
+    "ready_prediction": 99.96702640729039,
+    "unsafe_leakage_prediction": 97.12051495977019,
+    "request_time": 14507,
+    "quote_status": "served",
+    "served_prediction": 99.96702640729042
+  },
+  {
+    "id": "d145-06",
+    "paid_fare": 156.2823461,
+    "ready_prediction": 153.69061696564805,
+    "unsafe_leakage_prediction": 156.2484794415623,
+    "request_time": 14512,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-07",
+    "paid_fare": 120.54262594,
+    "ready_prediction": 122.1777055074332,
+    "unsafe_leakage_prediction": 120.53808987134494,
+    "request_time": 14509,
+    "quote_status": "served",
+    "served_prediction": 122.1777055074332
+  },
+  {
+    "id": "d145-08",
+    "paid_fare": 139.74244246,
+    "ready_prediction": 139.32601474571865,
+    "unsafe_leakage_prediction": 139.64504194502865,
+    "request_time": 14514,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-09",
+    "paid_fare": 180.23601872,
+    "ready_prediction": 181.2553296491769,
+    "unsafe_leakage_prediction": 180.25526886625798,
+    "request_time": 14511,
+    "quote_status": "served",
+    "served_prediction": 181.2553296491769
+  },
+  {
+    "id": "d145-10",
+    "paid_fare": 144.02646353,
+    "ready_prediction": 142.27323750369163,
+    "unsafe_leakage_prediction": 143.98963339725475,
+    "request_time": 14516,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-11",
+    "paid_fare": 108.54645692,
+    "ready_prediction": 107.11214855018166,
+    "unsafe_leakage_prediction": 108.55556680309806,
+    "request_time": 14513,
+    "quote_status": "served",
+    "served_prediction": 107.11214855018163
+  },
+  {
+    "id": "d145-12",
+    "paid_fare": 59.36112275,
+    "ready_prediction": 57.20235265961445,
+    "unsafe_leakage_prediction": 59.435699109016404,
+    "request_time": 14518,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d145-13",
+    "paid_fare": 155.44886269,
+    "ready_prediction": 153.12915927439366,
+    "unsafe_leakage_prediction": 155.3947621206999,
+    "request_time": 14515,
+    "quote_status": "served",
+    "served_prediction": 153.1291592743937
+  },
+  {
+    "id": "d145-14",
+    "paid_fare": 161.51235991,
+    "ready_prediction": 161.15979765291846,
+    "unsafe_leakage_prediction": 161.4713599377458,
+    "request_time": 14520,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-00",
+    "paid_fare": 170.8530952,
+    "ready_prediction": 161.95323924980698,
+    "unsafe_leakage_prediction": 170.89064708186777,
+    "request_time": 14602,
+    "quote_status": "served",
+    "served_prediction": 161.95323924980698
+  },
+  {
+    "id": "d146-01",
+    "paid_fare": 121.44945474,
+    "ready_prediction": 124.87174537668419,
+    "unsafe_leakage_prediction": 121.45829728914673,
+    "request_time": 14607,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-02",
+    "paid_fare": 126.70058568,
+    "ready_prediction": 131.27743253096918,
+    "unsafe_leakage_prediction": 126.71616184030478,
+    "request_time": 14604,
+    "quote_status": "served",
+    "served_prediction": 131.2774325309692
+  },
+  {
+    "id": "d146-03",
+    "paid_fare": 67.53962596,
+    "ready_prediction": 62.3653916201212,
+    "unsafe_leakage_prediction": 67.58267725546497,
+    "request_time": 14609,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-04",
+    "paid_fare": 123.95056662,
+    "ready_prediction": 121.1826455653465,
+    "unsafe_leakage_prediction": 123.977918364204,
+    "request_time": 14606,
+    "quote_status": "served",
+    "served_prediction": 121.18264556534649
+  },
+  {
+    "id": "d146-05",
+    "paid_fare": 60.79067056,
+    "ready_prediction": 58.03735694490884,
+    "unsafe_leakage_prediction": 60.824482913761344,
+    "request_time": 14611,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-06",
+    "paid_fare": 108.54790625,
+    "ready_prediction": 111.57327767555823,
+    "unsafe_leakage_prediction": 108.60773149061298,
+    "request_time": 14608,
+    "quote_status": "served",
+    "served_prediction": 111.57327767555822
+  },
+  {
+    "id": "d146-07",
+    "paid_fare": 52.57108619,
+    "ready_prediction": 58.7039499463056,
+    "unsafe_leakage_prediction": 52.55226802375809,
+    "request_time": 14613,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-08",
+    "paid_fare": 82.3340097,
+    "ready_prediction": 79.61164718350098,
+    "unsafe_leakage_prediction": 82.35463722528681,
+    "request_time": 14610,
+    "quote_status": "served",
+    "served_prediction": 79.61164718350098
+  },
+  {
+    "id": "d146-09",
+    "paid_fare": 90.87209328,
+    "ready_prediction": 100.5951017419468,
+    "unsafe_leakage_prediction": 90.81478695215242,
+    "request_time": 14615,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-10",
+    "paid_fare": 106.30543587,
+    "ready_prediction": 108.69886561302492,
+    "unsafe_leakage_prediction": 106.256439917817,
+    "request_time": 14612,
+    "quote_status": "served",
+    "served_prediction": 108.69886561302494
+  },
+  {
+    "id": "d146-11",
+    "paid_fare": 162.73346486,
+    "ready_prediction": 157.3069237585498,
+    "unsafe_leakage_prediction": 162.66381626318773,
+    "request_time": 14617,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-12",
+    "paid_fare": 179.17402616,
+    "ready_prediction": 181.08938085953483,
+    "unsafe_leakage_prediction": 179.1406915279434,
+    "request_time": 14614,
+    "quote_status": "served",
+    "served_prediction": 181.08938085953486
+  },
+  {
+    "id": "d146-13",
+    "paid_fare": 112.30119395,
+    "ready_prediction": 106.97430150580156,
+    "unsafe_leakage_prediction": 112.40672249298136,
+    "request_time": 14619,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d146-14",
+    "paid_fare": 109.55139076,
+    "ready_prediction": 105.51116776048174,
+    "unsafe_leakage_prediction": 109.47749231333547,
+    "request_time": 14616,
+    "quote_status": "served",
+    "served_prediction": 105.51116776048174
+  },
+  {
+    "id": "d147-00",
+    "paid_fare": 132.28955298,
+    "ready_prediction": 129.8149184196929,
+    "unsafe_leakage_prediction": 132.22893440102473,
+    "request_time": 14706,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-01",
+    "paid_fare": 159.5350679,
+    "ready_prediction": 158.11699043080068,
+    "unsafe_leakage_prediction": 159.5594887490837,
+    "request_time": 14703,
+    "quote_status": "served",
+    "served_prediction": 158.11699043080068
+  },
+  {
+    "id": "d147-02",
+    "paid_fare": 160.91141028,
+    "ready_prediction": 163.74678795413863,
+    "unsafe_leakage_prediction": 160.8326393254753,
+    "request_time": 14708,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-03",
+    "paid_fare": 86.10805898,
+    "ready_prediction": 91.63381623627457,
+    "unsafe_leakage_prediction": 86.09165858405643,
+    "request_time": 14705,
+    "quote_status": "served",
+    "served_prediction": 91.63381623627458
+  },
+  {
+    "id": "d147-04",
+    "paid_fare": 79.49392335,
+    "ready_prediction": 81.92929962192146,
+    "unsafe_leakage_prediction": 79.5403793374151,
+    "request_time": 14710,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-05",
+    "paid_fare": 149.74385307,
+    "ready_prediction": 154.66339639619,
+    "unsafe_leakage_prediction": 149.76695419152568,
+    "request_time": 14707,
+    "quote_status": "served",
+    "served_prediction": 154.66339639619
+  },
+  {
+    "id": "d147-06",
+    "paid_fare": 131.17293414,
+    "ready_prediction": 134.56786439993155,
+    "unsafe_leakage_prediction": 131.18252654250753,
+    "request_time": 14712,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-07",
+    "paid_fare": 101.60076256,
+    "ready_prediction": 101.40239756830397,
+    "unsafe_leakage_prediction": 101.58427839595454,
+    "request_time": 14709,
+    "quote_status": "served",
+    "served_prediction": 101.40239756830398
+  },
+  {
+    "id": "d147-08",
+    "paid_fare": 160.95183024,
+    "ready_prediction": 162.06987441354673,
+    "unsafe_leakage_prediction": 160.89940490569444,
+    "request_time": 14714,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-09",
+    "paid_fare": 105.49493203,
+    "ready_prediction": 101.40239756830397,
+    "unsafe_leakage_prediction": 105.4183908942749,
+    "request_time": 14711,
+    "quote_status": "served",
+    "served_prediction": 101.40239756830398
+  },
+  {
+    "id": "d147-10",
+    "paid_fare": 127.46007406,
+    "ready_prediction": 121.32252410964456,
+    "unsafe_leakage_prediction": 127.46206801086868,
+    "request_time": 14716,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-11",
+    "paid_fare": 146.62884449,
+    "ready_prediction": 147.67953901640732,
+    "unsafe_leakage_prediction": 146.62265645569136,
+    "request_time": 14713,
+    "quote_status": "served",
+    "served_prediction": 147.67953901640735
+  },
+  {
+    "id": "d147-12",
+    "paid_fare": 112.84551045,
+    "ready_prediction": 112.22136005967427,
+    "unsafe_leakage_prediction": 112.86621115583779,
+    "request_time": 14718,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d147-13",
+    "paid_fare": 63.7954634,
+    "ready_prediction": 59.5278708480251,
+    "unsafe_leakage_prediction": 63.88718640122754,
+    "request_time": 14715,
+    "quote_status": "served",
+    "served_prediction": 59.52787084802513
+  },
+  {
+    "id": "d147-14",
+    "paid_fare": 104.09285939,
+    "ready_prediction": 101.6182814407703,
+    "unsafe_leakage_prediction": 104.10460992443988,
+    "request_time": 14720,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-00",
+    "paid_fare": 130.70514111,
+    "ready_prediction": 135.3308266919891,
+    "unsafe_leakage_prediction": 130.66686404573974,
+    "request_time": 14802,
+    "quote_status": "served",
+    "served_prediction": 135.3308266919891
+  },
+  {
+    "id": "d148-01",
+    "paid_fare": 145.17012513,
+    "ready_prediction": 144.96930367462267,
+    "unsafe_leakage_prediction": 145.2107727729763,
+    "request_time": 14807,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-02",
+    "paid_fare": 87.60849829,
+    "ready_prediction": 84.43394294088735,
+    "unsafe_leakage_prediction": 87.57684981090522,
+    "request_time": 14804,
+    "quote_status": "served",
+    "served_prediction": 84.43394294088736
+  },
+  {
+    "id": "d148-03",
+    "paid_fare": 88.86127451,
+    "ready_prediction": 88.92155459280988,
+    "unsafe_leakage_prediction": 88.85230708327104,
+    "request_time": 14809,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-04",
+    "paid_fare": 125.36318095,
+    "ready_prediction": 124.53473992782689,
+    "unsafe_leakage_prediction": 125.3784351984689,
+    "request_time": 14806,
+    "quote_status": "served",
+    "served_prediction": 124.53473992782686
+  },
+  {
+    "id": "d148-05",
+    "paid_fare": 104.15707846,
+    "ready_prediction": 101.13116982227324,
+    "unsafe_leakage_prediction": 104.08148086971606,
+    "request_time": 14811,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-06",
+    "paid_fare": 139.21775507,
+    "ready_prediction": 141.17212790238364,
+    "unsafe_leakage_prediction": 139.23879727665917,
+    "request_time": 14808,
+    "quote_status": "served",
+    "served_prediction": 141.17212790238366
+  },
+  {
+    "id": "d148-07",
+    "paid_fare": 155.22309653,
+    "ready_prediction": 156.07094175631366,
+    "unsafe_leakage_prediction": 155.19490625834976,
+    "request_time": 14813,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-08",
+    "paid_fare": 184.56496893,
+    "ready_prediction": 183.62734190216136,
+    "unsafe_leakage_prediction": 184.5245969227637,
+    "request_time": 14810,
+    "quote_status": "served",
+    "served_prediction": 183.62734190216133
+  },
+  {
+    "id": "d148-09",
+    "paid_fare": 99.45150528,
+    "ready_prediction": 95.53558102257834,
+    "unsafe_leakage_prediction": 99.45947610360724,
+    "request_time": 14815,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-10",
+    "paid_fare": 120.12358697,
+    "ready_prediction": 122.98264178569617,
+    "unsafe_leakage_prediction": 120.02710917121425,
+    "request_time": 14812,
+    "quote_status": "served",
+    "served_prediction": 122.98264178569615
+  },
+  {
+    "id": "d148-11",
+    "paid_fare": 144.49452597,
+    "ready_prediction": 144.96930367462267,
+    "unsafe_leakage_prediction": 144.41865986132012,
+    "request_time": 14817,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-12",
+    "paid_fare": 148.12440094,
+    "ready_prediction": 150.66787101622145,
+    "unsafe_leakage_prediction": 148.11754055367814,
+    "request_time": 14814,
+    "quote_status": "served",
+    "served_prediction": 150.6678710162215
+  },
+  {
+    "id": "d148-13",
+    "paid_fare": 101.8830887,
+    "ready_prediction": 101.84859252811965,
+    "unsafe_leakage_prediction": 101.92953578510378,
+    "request_time": 14819,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d148-14",
+    "paid_fare": 121.646224,
+    "ready_prediction": 121.22670181853168,
+    "unsafe_leakage_prediction": 121.58480710594628,
+    "request_time": 14816,
+    "quote_status": "served",
+    "served_prediction": 121.22670181853168
+  },
+  {
+    "id": "d149-00",
+    "paid_fare": 80.5513823,
+    "ready_prediction": 81.11328854882937,
+    "unsafe_leakage_prediction": 80.55373598512095,
+    "request_time": 14906,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-01",
+    "paid_fare": 149.04625545,
+    "ready_prediction": 145.42874016185775,
+    "unsafe_leakage_prediction": 149.0792991421178,
+    "request_time": 14903,
+    "quote_status": "served",
+    "served_prediction": 145.42874016185775
+  },
+  {
+    "id": "d149-02",
+    "paid_fare": 85.18679064,
+    "ready_prediction": 82.108347501703,
+    "unsafe_leakage_prediction": 85.26488150720712,
+    "request_time": 14908,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-03",
+    "paid_fare": 104.9664532,
+    "ready_prediction": 103.00867668333713,
+    "unsafe_leakage_prediction": 105.02291338739643,
+    "request_time": 14905,
+    "quote_status": "served",
+    "served_prediction": 103.00867668333713
+  },
+  {
+    "id": "d149-04",
+    "paid_fare": 94.63836636,
+    "ready_prediction": 91.27678071570038,
+    "unsafe_leakage_prediction": 94.58659246975881,
+    "request_time": 14910,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-05",
+    "paid_fare": 77.68649254,
+    "ready_prediction": 83.26637190768201,
+    "unsafe_leakage_prediction": 77.69879810968912,
+    "request_time": 14907,
+    "quote_status": "served",
+    "served_prediction": 83.26637190768201
+  },
+  {
+    "id": "d149-06",
+    "paid_fare": 66.36367615,
+    "ready_prediction": 62.67882808428233,
+    "unsafe_leakage_prediction": 66.35963440475356,
+    "request_time": 14912,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-07",
+    "paid_fare": 124.63629802,
+    "ready_prediction": 128.04521231117403,
+    "unsafe_leakage_prediction": 124.60284099151436,
+    "request_time": 14909,
+    "quote_status": "served",
+    "served_prediction": 128.04521231117405
+  },
+  {
+    "id": "d149-08",
+    "paid_fare": 148.8128088,
+    "ready_prediction": 146.46858332673114,
+    "unsafe_leakage_prediction": 148.8270967137954,
+    "request_time": 14914,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-09",
+    "paid_fare": 145.51707444,
+    "ready_prediction": 144.46465405103308,
+    "unsafe_leakage_prediction": 145.4750853563586,
+    "request_time": 14911,
+    "quote_status": "served",
+    "served_prediction": 144.46465405103308
+  },
+  {
+    "id": "d149-10",
+    "paid_fare": 103.97829117,
+    "ready_prediction": 107.4821781792774,
+    "unsafe_leakage_prediction": 103.89838976505919,
+    "request_time": 14916,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-11",
+    "paid_fare": 119.91650244,
+    "ready_prediction": 123.67846139215722,
+    "unsafe_leakage_prediction": 119.90144946159735,
+    "request_time": 14913,
+    "quote_status": "served",
+    "served_prediction": 123.67846139215719
+  },
+  {
+    "id": "d149-12",
+    "paid_fare": 145.78975147,
+    "ready_prediction": 146.46858332673114,
+    "unsafe_leakage_prediction": 145.82282048617026,
+    "request_time": 14918,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d149-13",
+    "paid_fare": 141.69073566,
+    "ready_prediction": 143.4387633630531,
+    "unsafe_leakage_prediction": 141.71034543855325,
+    "request_time": 14915,
+    "quote_status": "served",
+    "served_prediction": 143.43876336305308
+  },
+  {
+    "id": "d149-14",
+    "paid_fare": 128.88214751,
+    "ready_prediction": 122.44304097952649,
+    "unsafe_leakage_prediction": 128.91748832739637,
+    "request_time": 14920,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-00",
+    "paid_fare": 118.38250205,
+    "ready_prediction": 123.9759151651031,
+    "unsafe_leakage_prediction": 118.4609174810012,
+    "request_time": 15002,
+    "quote_status": "served",
+    "served_prediction": 123.9759151651031
+  },
+  {
+    "id": "d150-01",
+    "paid_fare": 76.81637817,
+    "ready_prediction": 81.93720945054888,
+    "unsafe_leakage_prediction": 76.75579069525689,
+    "request_time": 15007,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-02",
+    "paid_fare": 125.96424886,
+    "ready_prediction": 122.85408011010277,
+    "unsafe_leakage_prediction": 126.0462627202408,
+    "request_time": 15004,
+    "quote_status": "served",
+    "served_prediction": 122.85408011010277
+  },
+  {
+    "id": "d150-03",
+    "paid_fare": 142.97155086,
+    "ready_prediction": 147.26202492361966,
+    "unsafe_leakage_prediction": 142.92205823223625,
+    "request_time": 15009,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-04",
+    "paid_fare": 188.479944,
+    "ready_prediction": 186.13951936425093,
+    "unsafe_leakage_prediction": 188.41415268108022,
+    "request_time": 15006,
+    "quote_status": "served",
+    "served_prediction": 186.13951936425093
+  },
+  {
+    "id": "d150-05",
+    "paid_fare": 90.12563063,
+    "ready_prediction": 92.08130569616382,
+    "unsafe_leakage_prediction": 90.1208603516097,
+    "request_time": 15011,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-06",
+    "paid_fare": 120.49492834,
+    "ready_prediction": 126.15764411822236,
+    "unsafe_leakage_prediction": 120.49193978524252,
+    "request_time": 15008,
+    "quote_status": "served",
+    "served_prediction": 126.1576441182224
+  },
+  {
+    "id": "d150-07",
+    "paid_fare": 77.37080075,
+    "ready_prediction": 82.93503924931625,
+    "unsafe_leakage_prediction": 77.44635503692112,
+    "request_time": 15013,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-08",
+    "paid_fare": 146.61701075,
+    "ready_prediction": 143.3347854185672,
+    "unsafe_leakage_prediction": 146.5899680615545,
+    "request_time": 15010,
+    "quote_status": "served",
+    "served_prediction": 143.3347854185672
+  },
+  {
+    "id": "d150-09",
+    "paid_fare": 120.92459772,
+    "ready_prediction": 117.69615381028648,
+    "unsafe_leakage_prediction": 120.95113816696349,
+    "request_time": 15015,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-10",
+    "paid_fare": 101.75350136,
+    "ready_prediction": 103.9314943399038,
+    "unsafe_leakage_prediction": 101.82069637741793,
+    "request_time": 15012,
+    "quote_status": "served",
+    "served_prediction": 103.93149433990381
+  },
+  {
+    "id": "d150-11",
+    "paid_fare": 157.90749619,
+    "ready_prediction": 154.54118922299435,
+    "unsafe_leakage_prediction": 157.88240422083186,
+    "request_time": 15017,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-12",
+    "paid_fare": 50.70176639,
+    "ready_prediction": 61.34966562714919,
+    "unsafe_leakage_prediction": 50.60619958664998,
+    "request_time": 15014,
+    "quote_status": "served",
+    "served_prediction": 61.34966562714921
+  },
+  {
+    "id": "d150-13",
+    "paid_fare": 83.26548603,
+    "ready_prediction": 84.07920942582662,
+    "unsafe_leakage_prediction": 83.16801113171914,
+    "request_time": 15019,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d150-14",
+    "paid_fare": 142.79982691,
+    "ready_prediction": 144.19895480921696,
+    "unsafe_leakage_prediction": 142.81160705093131,
+    "request_time": 15016,
+    "quote_status": "served",
+    "served_prediction": 144.19895480921693
+  },
+  {
+    "id": "d151-00",
+    "paid_fare": 107.7707457,
+    "ready_prediction": 109.56150112173616,
+    "unsafe_leakage_prediction": 107.739503794931,
+    "request_time": 15106,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-01",
+    "paid_fare": 105.063773,
+    "ready_prediction": 104.60387241479536,
+    "unsafe_leakage_prediction": 105.02386732128039,
+    "request_time": 15103,
+    "quote_status": "served",
+    "served_prediction": 104.60387241479538
+  },
+  {
+    "id": "d151-02",
+    "paid_fare": 94.76762391,
+    "ready_prediction": 95.95790117551864,
+    "unsafe_leakage_prediction": 94.75312054976213,
+    "request_time": 15108,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-03",
+    "paid_fare": 143.89453933,
+    "ready_prediction": 144.3454694292644,
+    "unsafe_leakage_prediction": 143.85967660504264,
+    "request_time": 15105,
+    "quote_status": "served",
+    "served_prediction": 144.34546942926437
+  },
+  {
+    "id": "d151-04",
+    "paid_fare": 100.3450356,
+    "ready_prediction": 89.2971309898953,
+    "unsafe_leakage_prediction": 100.34354375169872,
+    "request_time": 15110,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-05",
+    "paid_fare": 59.97893614,
+    "ready_prediction": 64.3017322746778,
+    "unsafe_leakage_prediction": 60.093548044135396,
+    "request_time": 15107,
+    "quote_status": "served",
+    "served_prediction": 64.30173227467782
+  },
+  {
+    "id": "d151-06",
+    "paid_fare": 88.30557903,
+    "ready_prediction": 94.79095754846638,
+    "unsafe_leakage_prediction": 88.25505371203039,
+    "request_time": 15112,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-07",
+    "paid_fare": 87.04343866,
+    "ready_prediction": 85.25269168773671,
+    "unsafe_leakage_prediction": 87.05030354133112,
+    "request_time": 15109,
+    "quote_status": "served",
+    "served_prediction": 85.25269168773671
+  },
+  {
+    "id": "d151-08",
+    "paid_fare": 121.56035769,
+    "ready_prediction": 127.32890930816039,
+    "unsafe_leakage_prediction": 121.49350086580935,
+    "request_time": 15114,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-09",
+    "paid_fare": 148.0334767,
+    "ready_prediction": 147.2250754516898,
+    "unsafe_leakage_prediction": 148.12508927926612,
+    "request_time": 15111,
+    "quote_status": "served",
+    "served_prediction": 147.2250754516898
+  },
+  {
+    "id": "d151-10",
+    "paid_fare": 138.53921901,
+    "ready_prediction": 132.83087674106918,
+    "unsafe_leakage_prediction": 138.50509655903946,
+    "request_time": 15116,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-11",
+    "paid_fare": 101.57156948,
+    "ready_prediction": 98.2651987005204,
+    "unsafe_leakage_prediction": 101.65754665221387,
+    "request_time": 15113,
+    "quote_status": "served",
+    "served_prediction": 98.26519870052041
+  },
+  {
+    "id": "d151-12",
+    "paid_fare": 99.05055246,
+    "ready_prediction": 92.88305983073353,
+    "unsafe_leakage_prediction": 99.10103424540159,
+    "request_time": 15118,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d151-13",
+    "paid_fare": 110.44696128,
+    "ready_prediction": 106.99054649766535,
+    "unsafe_leakage_prediction": 110.44136567067582,
+    "request_time": 15115,
+    "quote_status": "served",
+    "served_prediction": 106.99054649766535
+  },
+  {
+    "id": "d151-14",
+    "paid_fare": 104.84485793,
+    "ready_prediction": 103.9056406917875,
+    "unsafe_leakage_prediction": 104.89060067069902,
+    "request_time": 15120,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-00",
+    "paid_fare": 131.671489,
+    "ready_prediction": 130.45878725256432,
+    "unsafe_leakage_prediction": 131.73720554116062,
+    "request_time": 15202,
+    "quote_status": "served",
+    "served_prediction": 130.45878725256435
+  },
+  {
+    "id": "d152-01",
+    "paid_fare": 64.63068741,
+    "ready_prediction": 65.48906876605652,
+    "unsafe_leakage_prediction": 64.61791814762603,
+    "request_time": 15207,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-02",
+    "paid_fare": 123.16495063,
+    "ready_prediction": 123.52455562664234,
+    "unsafe_leakage_prediction": 123.23052437218651,
+    "request_time": 15204,
+    "quote_status": "served",
+    "served_prediction": 123.52455562664234
+  },
+  {
+    "id": "d152-03",
+    "paid_fare": 144.61460306,
+    "ready_prediction": 152.61405663873705,
+    "unsafe_leakage_prediction": 144.62826741731084,
+    "request_time": 15209,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-04",
+    "paid_fare": 88.62068427,
+    "ready_prediction": 87.96495333120139,
+    "unsafe_leakage_prediction": 88.58549744751816,
+    "request_time": 15206,
+    "quote_status": "served",
+    "served_prediction": 87.96495333120139
+  },
+  {
+    "id": "d152-05",
+    "paid_fare": 91.87181337,
+    "ready_prediction": 90.12659358340225,
+    "unsafe_leakage_prediction": 91.81482424715658,
+    "request_time": 15211,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-06",
+    "paid_fare": 116.3862719,
+    "ready_prediction": 112.6662397284014,
+    "unsafe_leakage_prediction": 116.41842406303955,
+    "request_time": 15208,
+    "quote_status": "served",
+    "served_prediction": 112.6662397284014
+  },
+  {
+    "id": "d152-07",
+    "paid_fare": 103.05491778,
+    "ready_prediction": 104.67691552152624,
+    "unsafe_leakage_prediction": 103.06768408223115,
+    "request_time": 15213,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-08",
+    "paid_fare": 141.0947186,
+    "ready_prediction": 136.86728193887743,
+    "unsafe_leakage_prediction": 141.147877277113,
+    "request_time": 15210,
+    "quote_status": "served",
+    "served_prediction": 136.86728193887743
+  },
+  {
+    "id": "d152-09",
+    "paid_fare": 142.23877399,
+    "ready_prediction": 145.35689550918917,
+    "unsafe_leakage_prediction": 142.2143731155274,
+    "request_time": 15215,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-10",
+    "paid_fare": 90.54022498,
+    "ready_prediction": 85.69657192443465,
+    "unsafe_leakage_prediction": 90.6960391830637,
+    "request_time": 15212,
+    "quote_status": "served",
+    "served_prediction": 85.69657192443465
+  },
+  {
+    "id": "d152-11",
+    "paid_fare": 106.95465903,
+    "ready_prediction": 105.9288975035334,
+    "unsafe_leakage_prediction": 106.91948625291664,
+    "request_time": 15217,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-12",
+    "paid_fare": 150.33205039,
+    "ready_prediction": 145.9144843269409,
+    "unsafe_leakage_prediction": 150.3313728331863,
+    "request_time": 15214,
+    "quote_status": "served",
+    "served_prediction": 145.91448432694088
+  },
+  {
+    "id": "d152-13",
+    "paid_fare": 129.7131832,
+    "ready_prediction": 136.0131444992569,
+    "unsafe_leakage_prediction": 129.72823512230255,
+    "request_time": 15219,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d152-14",
+    "paid_fare": 101.59800601,
+    "ready_prediction": 95.57331576178002,
+    "unsafe_leakage_prediction": 101.61498550763179,
+    "request_time": 15216,
+    "quote_status": "served",
+    "served_prediction": 95.57331576178004
+  },
+  {
+    "id": "d153-00",
+    "paid_fare": 100.11963034,
+    "ready_prediction": 106.23761788152159,
+    "unsafe_leakage_prediction": 100.11908887237085,
+    "request_time": 15306,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-01",
+    "paid_fare": 93.69610303,
+    "ready_prediction": 102.38384196680245,
+    "unsafe_leakage_prediction": 93.71033184734597,
+    "request_time": 15303,
+    "quote_status": "served",
+    "served_prediction": 102.38384196680248
+  },
+  {
+    "id": "d153-02",
+    "paid_fare": 137.39002158,
+    "ready_prediction": 139.6202210297395,
+    "unsafe_leakage_prediction": 137.4212425030361,
+    "request_time": 15308,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-03",
+    "paid_fare": 142.12081463,
+    "ready_prediction": 146.11708695535302,
+    "unsafe_leakage_prediction": 142.08596201661513,
+    "request_time": 15305,
+    "quote_status": "served",
+    "served_prediction": 146.11708695535302
+  },
+  {
+    "id": "d153-04",
+    "paid_fare": 112.21667948,
+    "ready_prediction": 111.16223854498185,
+    "unsafe_leakage_prediction": 112.21405577188764,
+    "request_time": 15310,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-05",
+    "paid_fare": 88.56795329,
+    "ready_prediction": 88.511984761079,
+    "unsafe_leakage_prediction": 88.56173397897477,
+    "request_time": 15307,
+    "quote_status": "served",
+    "served_prediction": 88.511984761079
+  },
+  {
+    "id": "d153-06",
+    "paid_fare": 129.61450998,
+    "ready_prediction": 126.03296332877095,
+    "unsafe_leakage_prediction": 129.5925682668882,
+    "request_time": 15312,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-07",
+    "paid_fare": 72.75091083,
+    "ready_prediction": 65.9135530814984,
+    "unsafe_leakage_prediction": 72.67588716245098,
+    "request_time": 15309,
+    "quote_status": "served",
+    "served_prediction": 65.91355308149842
+  },
+  {
+    "id": "d153-08",
+    "paid_fare": 118.25653365,
+    "ready_prediction": 118.20714103182594,
+    "unsafe_leakage_prediction": 118.29140917861773,
+    "request_time": 15314,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-09",
+    "paid_fare": 71.2899821,
+    "ready_prediction": 73.89071173879209,
+    "unsafe_leakage_prediction": 71.26339574749696,
+    "request_time": 15311,
+    "quote_status": "served",
+    "served_prediction": 73.8907117387921
+  },
+  {
+    "id": "d153-10",
+    "paid_fare": 103.18445727,
+    "ready_prediction": 94.47825556219176,
+    "unsafe_leakage_prediction": 103.16276948705325,
+    "request_time": 15316,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-11",
+    "paid_fare": 95.68874074,
+    "ready_prediction": 86.89776264528199,
+    "unsafe_leakage_prediction": 95.64293519217985,
+    "request_time": 15313,
+    "quote_status": "served",
+    "served_prediction": 86.89776264528199
+  },
+  {
+    "id": "d153-12",
+    "paid_fare": 110.77682193,
+    "ready_prediction": 104.24463199442224,
+    "unsafe_leakage_prediction": 110.77617068948334,
+    "request_time": 15318,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d153-13",
+    "paid_fare": 108.24027262,
+    "ready_prediction": 109.09952858447869,
+    "unsafe_leakage_prediction": 108.26958034151114,
+    "request_time": 15315,
+    "quote_status": "served",
+    "served_prediction": 109.09952858447868
+  },
+  {
+    "id": "d153-14",
+    "paid_fare": 70.29078329,
+    "ready_prediction": 68.2013304095212,
+    "unsafe_leakage_prediction": 70.35246374162196,
+    "request_time": 15320,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-00",
+    "paid_fare": 131.14565436,
+    "ready_prediction": 129.75910932491303,
+    "unsafe_leakage_prediction": 131.12937772912815,
+    "request_time": 15402,
+    "quote_status": "served",
+    "served_prediction": 129.75910932491303
+  },
+  {
+    "id": "d154-01",
+    "paid_fare": 102.58035569,
+    "ready_prediction": 98.58670275323684,
+    "unsafe_leakage_prediction": 102.58768735864456,
+    "request_time": 15407,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-02",
+    "paid_fare": 88.13673954,
+    "ready_prediction": 92.10616607368692,
+    "unsafe_leakage_prediction": 88.17168897247015,
+    "request_time": 15404,
+    "quote_status": "served",
+    "served_prediction": 92.10616607368692
+  },
+  {
+    "id": "d154-03",
+    "paid_fare": 67.29697916,
+    "ready_prediction": 69.02248046534699,
+    "unsafe_leakage_prediction": 67.33296808287734,
+    "request_time": 15409,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-04",
+    "paid_fare": 88.07693683,
+    "ready_prediction": 87.71614185521405,
+    "unsafe_leakage_prediction": 88.07417617600395,
+    "request_time": 15406,
+    "quote_status": "served",
+    "served_prediction": 87.71614185521405
+  },
+  {
+    "id": "d154-05",
+    "paid_fare": 147.32478201,
+    "ready_prediction": 140.6612465022559,
+    "unsafe_leakage_prediction": 147.26478120596855,
+    "request_time": 15411,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-06",
+    "paid_fare": 91.62147566,
+    "ready_prediction": 91.77720623273498,
+    "unsafe_leakage_prediction": 91.67428898944254,
+    "request_time": 15408,
+    "quote_status": "served",
+    "served_prediction": 91.77720623273498
+  },
+  {
+    "id": "d154-07",
+    "paid_fare": 170.52969296,
+    "ready_prediction": 166.74651337705788,
+    "unsafe_leakage_prediction": 170.45949266282963,
+    "request_time": 15413,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-08",
+    "paid_fare": 118.66014092,
+    "ready_prediction": 117.71726347412583,
+    "unsafe_leakage_prediction": 118.6421432821411,
+    "request_time": 15410,
+    "quote_status": "served",
+    "served_prediction": 117.71726347412582
+  },
+  {
+    "id": "d154-09",
+    "paid_fare": 66.59874655,
+    "ready_prediction": 68.83484161455335,
+    "unsafe_leakage_prediction": 66.69181667248614,
+    "request_time": 15415,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-10",
+    "paid_fare": 123.90036453,
+    "ready_prediction": 127.02222264154595,
+    "unsafe_leakage_prediction": 123.94098501508158,
+    "request_time": 15412,
+    "quote_status": "served",
+    "served_prediction": 127.02222264154592
+  },
+  {
+    "id": "d154-11",
+    "paid_fare": 126.98854389,
+    "ready_prediction": 129.77592653432166,
+    "unsafe_leakage_prediction": 126.94505918213099,
+    "request_time": 15417,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-12",
+    "paid_fare": 142.55460607,
+    "ready_prediction": 140.45522531503389,
+    "unsafe_leakage_prediction": 142.5934681769477,
+    "request_time": 15414,
+    "quote_status": "served",
+    "served_prediction": 140.45522531503386
+  },
+  {
+    "id": "d154-13",
+    "paid_fare": 162.98063087,
+    "ready_prediction": 160.75677849851434,
+    "unsafe_leakage_prediction": 162.97954321137922,
+    "request_time": 15419,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d154-14",
+    "paid_fare": 126.97287989,
+    "ready_prediction": 120.80896158817869,
+    "unsafe_leakage_prediction": 126.92782965518042,
+    "request_time": 15416,
+    "quote_status": "served",
+    "served_prediction": 120.80896158817868
+  },
+  {
+    "id": "d155-00",
+    "paid_fare": 135.23329189,
+    "ready_prediction": 130.37622040901437,
+    "unsafe_leakage_prediction": 135.21720242918622,
+    "request_time": 15506,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-01",
+    "paid_fare": 123.14564443,
+    "ready_prediction": 122.17613458973536,
+    "unsafe_leakage_prediction": 123.19336935757826,
+    "request_time": 15503,
+    "quote_status": "served",
+    "served_prediction": 122.17613458973534
+  },
+  {
+    "id": "d155-02",
+    "paid_fare": 126.01557832,
+    "ready_prediction": 130.37622040901437,
+    "unsafe_leakage_prediction": 126.05789513956158,
+    "request_time": 15508,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-03",
+    "paid_fare": 102.82455985,
+    "ready_prediction": 99.4161653467438,
+    "unsafe_leakage_prediction": 102.86085172886266,
+    "request_time": 15505,
+    "quote_status": "served",
+    "served_prediction": 99.4161653467438
+  },
+  {
+    "id": "d155-04",
+    "paid_fare": 86.80606278,
+    "ready_prediction": 90.21859788073532,
+    "unsafe_leakage_prediction": 86.81348791924921,
+    "request_time": 15510,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-05",
+    "paid_fare": 121.82832795,
+    "ready_prediction": 119.85775368115868,
+    "unsafe_leakage_prediction": 121.9038061425713,
+    "request_time": 15507,
+    "quote_status": "served",
+    "served_prediction": 119.85775368115868
+  },
+  {
+    "id": "d155-06",
+    "paid_fare": 139.97317649,
+    "ready_prediction": 132.8474245809111,
+    "unsafe_leakage_prediction": 140.01654529129308,
+    "request_time": 15512,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-07",
+    "paid_fare": 129.61930465,
+    "ready_prediction": 127.56165875877981,
+    "unsafe_leakage_prediction": 129.6149182782245,
+    "request_time": 15509,
+    "quote_status": "served",
+    "served_prediction": 127.56165875877981
+  },
+  {
+    "id": "d155-08",
+    "paid_fare": 168.82272451,
+    "ready_prediction": 168.96952555658626,
+    "unsafe_leakage_prediction": 168.73089318686118,
+    "request_time": 15514,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-09",
+    "paid_fare": 67.40716029,
+    "ready_prediction": 66.01948760960705,
+    "unsafe_leakage_prediction": 67.33471796586795,
+    "request_time": 15511,
+    "quote_status": "served",
+    "served_prediction": 66.01948760960708
+  },
+  {
+    "id": "d155-10",
+    "paid_fare": 109.78825803,
+    "ready_prediction": 108.38403513332958,
+    "unsafe_leakage_prediction": 109.83435280812432,
+    "request_time": 15516,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-11",
+    "paid_fare": 141.15305198,
+    "ready_prediction": 142.02841950381253,
+    "unsafe_leakage_prediction": 141.21546351890152,
+    "request_time": 15513,
+    "quote_status": "served",
+    "served_prediction": 142.02841950381253
+  },
+  {
+    "id": "d155-12",
+    "paid_fare": 66.90743518,
+    "ready_prediction": 75.47482408667544,
+    "unsafe_leakage_prediction": 66.94358743972977,
+    "request_time": 15518,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d155-13",
+    "paid_fare": 136.22536369,
+    "ready_prediction": 128.52969681910938,
+    "unsafe_leakage_prediction": 136.17967624452297,
+    "request_time": 15515,
+    "quote_status": "served",
+    "served_prediction": 128.5296968191094
+  },
+  {
+    "id": "d155-14",
+    "paid_fare": 129.15714711,
+    "ready_prediction": 131.09213822339808,
+    "unsafe_leakage_prediction": 129.07957349677505,
+    "request_time": 15520,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-00",
+    "paid_fare": 123.71640502,
+    "ready_prediction": 119.26258397949702,
+    "unsafe_leakage_prediction": 123.72552465690244,
+    "request_time": 15602,
+    "quote_status": "served",
+    "served_prediction": 119.26258397949702
+  },
+  {
+    "id": "d156-01",
+    "paid_fare": 141.23456972,
+    "ready_prediction": 145.2004298210053,
+    "unsafe_leakage_prediction": 141.15210906984328,
+    "request_time": 15607,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-02",
+    "paid_fare": 154.04745992,
+    "ready_prediction": 148.89087827189348,
+    "unsafe_leakage_prediction": 154.0944996520281,
+    "request_time": 15604,
+    "quote_status": "served",
+    "served_prediction": 148.89087827189348
+  },
+  {
+    "id": "d156-03",
+    "paid_fare": 68.64598688,
+    "ready_prediction": 66.81847089828305,
+    "unsafe_leakage_prediction": 68.56695372060125,
+    "request_time": 15609,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-04",
+    "paid_fare": 87.507955,
+    "ready_prediction": 88.89804677092603,
+    "unsafe_leakage_prediction": 87.52012455362276,
+    "request_time": 15606,
+    "quote_status": "served",
+    "served_prediction": 88.89804677092604
+  },
+  {
+    "id": "d156-05",
+    "paid_fare": 139.91409411,
+    "ready_prediction": 142.20102531583967,
+    "unsafe_leakage_prediction": 139.8862536934106,
+    "request_time": 15611,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-06",
+    "paid_fare": 122.93045719,
+    "ready_prediction": 129.0385933578163,
+    "unsafe_leakage_prediction": 122.96029210092982,
+    "request_time": 15608,
+    "quote_status": "served",
+    "served_prediction": 129.03859335781627
+  },
+  {
+    "id": "d156-07",
+    "paid_fare": 155.78387568,
+    "ready_prediction": 149.88297378046036,
+    "unsafe_leakage_prediction": 155.89447424183516,
+    "request_time": 15613,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-08",
+    "paid_fare": 127.0964366,
+    "ready_prediction": 123.00005549145484,
+    "unsafe_leakage_prediction": 127.0770464898536,
+    "request_time": 15610,
+    "quote_status": "served",
+    "served_prediction": 123.00005549145484
+  },
+  {
+    "id": "d156-09",
+    "paid_fare": 106.37271411,
+    "ready_prediction": 109.19687265147418,
+    "unsafe_leakage_prediction": 106.34107472302324,
+    "request_time": 15615,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-10",
+    "paid_fare": 167.70663225,
+    "ready_prediction": 171.74445070180738,
+    "unsafe_leakage_prediction": 167.8014159394579,
+    "request_time": 15612,
+    "quote_status": "served",
+    "served_prediction": 171.74445070180738
+  },
+  {
+    "id": "d156-11",
+    "paid_fare": 151.75397922,
+    "ready_prediction": 148.17413511902086,
+    "unsafe_leakage_prediction": 151.79276318642394,
+    "request_time": 15617,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-12",
+    "paid_fare": 146.93213893,
+    "ready_prediction": 151.46092043620462,
+    "unsafe_leakage_prediction": 146.87283141899997,
+    "request_time": 15614,
+    "quote_status": "served",
+    "served_prediction": 151.46092043620462
+  },
+  {
+    "id": "d156-13",
+    "paid_fare": 129.21201229,
+    "ready_prediction": 136.79808472551187,
+    "unsafe_leakage_prediction": 129.1545649058733,
+    "request_time": 15619,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d156-14",
+    "paid_fare": 159.4225895,
+    "ready_prediction": 169.0787326740361,
+    "unsafe_leakage_prediction": 159.4905662148289,
+    "request_time": 15616,
+    "quote_status": "served",
+    "served_prediction": 169.0787326740361
+  },
+  {
+    "id": "d157-00",
+    "paid_fare": 165.73557477,
+    "ready_prediction": 166.06526062915466,
+    "unsafe_leakage_prediction": 165.70755247334426,
+    "request_time": 15706,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-01",
+    "paid_fare": 116.3100237,
+    "ready_prediction": 120.03108796334206,
+    "unsafe_leakage_prediction": 116.29741193614902,
+    "request_time": 15703,
+    "quote_status": "served",
+    "served_prediction": 120.03108796334205
+  },
+  {
+    "id": "d157-02",
+    "paid_fare": 161.85025259,
+    "ready_prediction": 163.0622904500494,
+    "unsafe_leakage_prediction": 161.81762919062206,
+    "request_time": 15708,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-03",
+    "paid_fare": 157.23055693,
+    "ready_prediction": 150.64593607251794,
+    "unsafe_leakage_prediction": 157.15714058358714,
+    "request_time": 15705,
+    "quote_status": "served",
+    "served_prediction": 150.6459360725179
+  },
+  {
+    "id": "d157-04",
+    "paid_fare": 139.86873161,
+    "ready_prediction": 141.01459490641219,
+    "unsafe_leakage_prediction": 139.86223561636513,
+    "request_time": 15710,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-05",
+    "paid_fare": 125.79192082,
+    "ready_prediction": 112.12934603717834,
+    "unsafe_leakage_prediction": 125.82503361826747,
+    "request_time": 15707,
+    "quote_status": "served",
+    "served_prediction": 112.12934603717834
+  },
+  {
+    "id": "d157-06",
+    "paid_fare": 127.54901862,
+    "ready_prediction": 130.05839224911824,
+    "unsafe_leakage_prediction": 127.62903687775596,
+    "request_time": 15712,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-07",
+    "paid_fare": 130.82385284,
+    "ready_prediction": 141.3495678609937,
+    "unsafe_leakage_prediction": 130.79669706833013,
+    "request_time": 15709,
+    "quote_status": "served",
+    "served_prediction": 141.3495678609937
+  },
+  {
+    "id": "d157-08",
+    "paid_fare": 106.63365852,
+    "ready_prediction": 112.12934603717834,
+    "unsafe_leakage_prediction": 106.51706031106829,
+    "request_time": 15714,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-09",
+    "paid_fare": 125.08609457,
+    "ready_prediction": 120.91906291015371,
+    "unsafe_leakage_prediction": 125.13104561213483,
+    "request_time": 15711,
+    "quote_status": "served",
+    "served_prediction": 120.91906291015371
+  },
+  {
+    "id": "d157-10",
+    "paid_fare": 64.378556,
+    "ready_prediction": 67.03952825416145,
+    "unsafe_leakage_prediction": 64.40167628261226,
+    "request_time": 15716,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-11",
+    "paid_fare": 134.51558556,
+    "ready_prediction": 132.06481341049437,
+    "unsafe_leakage_prediction": 134.59371967754376,
+    "request_time": 15713,
+    "quote_status": "served",
+    "served_prediction": 132.0648134104944
+  },
+  {
+    "id": "d157-12",
+    "paid_fare": 125.02247085,
+    "ready_prediction": 128.15004407480063,
+    "unsafe_leakage_prediction": 124.93034885724559,
+    "request_time": 15718,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d157-13",
+    "paid_fare": 134.77152174,
+    "ready_prediction": 145.96972863289625,
+    "unsafe_leakage_prediction": 134.79223859063205,
+    "request_time": 15715,
+    "quote_status": "served",
+    "served_prediction": 145.96972863289625
+  },
+  {
+    "id": "d157-14",
+    "paid_fare": 109.12201645,
+    "ready_prediction": 114.33046324074856,
+    "unsafe_leakage_prediction": 109.18447396015164,
+    "request_time": 15720,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-00",
+    "paid_fare": 133.08482643,
+    "ready_prediction": 128.37664312246648,
+    "unsafe_leakage_prediction": 133.11784664405974,
+    "request_time": 15802,
+    "quote_status": "served",
+    "served_prediction": 128.3766431224665
+  },
+  {
+    "id": "d158-01",
+    "paid_fare": 121.29869097,
+    "ready_prediction": 117.31882631987739,
+    "unsafe_leakage_prediction": 121.18386944663257,
+    "request_time": 15807,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-02",
+    "paid_fare": 114.27791758,
+    "ready_prediction": 109.30110769212517,
+    "unsafe_leakage_prediction": 114.30187803959036,
+    "request_time": 15804,
+    "quote_status": "served",
+    "served_prediction": 109.30110769212517
+  },
+  {
+    "id": "d158-03",
+    "paid_fare": 145.66143404,
+    "ready_prediction": 144.49186967128986,
+    "unsafe_leakage_prediction": 145.60813319530536,
+    "request_time": 15809,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-04",
+    "paid_fare": 89.56020057,
+    "ready_prediction": 100.20927727789366,
+    "unsafe_leakage_prediction": 89.56529410694581,
+    "request_time": 15806,
+    "quote_status": "served",
+    "served_prediction": 100.20927727789368
+  },
+  {
+    "id": "d158-05",
+    "paid_fare": 147.89175661,
+    "ready_prediction": 143.72972074584854,
+    "unsafe_leakage_prediction": 147.82835884479894,
+    "request_time": 15811,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-06",
+    "paid_fare": 106.6129795,
+    "ready_prediction": 106.42876211906236,
+    "unsafe_leakage_prediction": 106.53474327216122,
+    "request_time": 15808,
+    "quote_status": "served",
+    "served_prediction": 106.42876211906237
+  },
+  {
+    "id": "d158-07",
+    "paid_fare": 163.43795793,
+    "ready_prediction": 152.87614623618992,
+    "unsafe_leakage_prediction": 163.327687834773,
+    "request_time": 15813,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-08",
+    "paid_fare": 133.28345194,
+    "ready_prediction": 132.7806142399315,
+    "unsafe_leakage_prediction": 133.24110790483448,
+    "request_time": 15810,
+    "quote_status": "served",
+    "served_prediction": 132.7806142399315
+  },
+  {
+    "id": "d158-09",
+    "paid_fare": 127.93774166,
+    "ready_prediction": 126.897031086239,
+    "unsafe_leakage_prediction": 127.96732776903671,
+    "request_time": 15815,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-10",
+    "paid_fare": 109.12179039,
+    "ready_prediction": 108.28111112620803,
+    "unsafe_leakage_prediction": 109.09631052135245,
+    "request_time": 15812,
+    "quote_status": "served",
+    "served_prediction": 108.28111112620805
+  },
+  {
+    "id": "d158-11",
+    "paid_fare": 103.61958488,
+    "ready_prediction": 101.72534748755517,
+    "unsafe_leakage_prediction": 103.58885738937569,
+    "request_time": 15817,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-12",
+    "paid_fare": 141.51091378,
+    "ready_prediction": 141.83574496223795,
+    "unsafe_leakage_prediction": 141.54321654598536,
+    "request_time": 15814,
+    "quote_status": "served",
+    "served_prediction": 141.83574496223798
+  },
+  {
+    "id": "d158-13",
+    "paid_fare": 87.5374702,
+    "ready_prediction": 83.23217326353894,
+    "unsafe_leakage_prediction": 87.4823010910786,
+    "request_time": 15819,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d158-14",
+    "paid_fare": 131.00769263,
+    "ready_prediction": 129.5092025123928,
+    "unsafe_leakage_prediction": 130.977301472807,
+    "request_time": 15816,
+    "quote_status": "served",
+    "served_prediction": 129.5092025123928
+  },
+  {
+    "id": "d159-00",
+    "paid_fare": 95.83901546,
+    "ready_prediction": 93.6742118794697,
+    "unsafe_leakage_prediction": 95.76475239174485,
+    "request_time": 15906,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-01",
+    "paid_fare": 118.13554599,
+    "ready_prediction": 113.22802410700429,
+    "unsafe_leakage_prediction": 118.21421123929161,
+    "request_time": 15903,
+    "quote_status": "served",
+    "served_prediction": 113.2280241070043
+  },
+  {
+    "id": "d159-02",
+    "paid_fare": 73.70955208,
+    "ready_prediction": 70.68251520051079,
+    "unsafe_leakage_prediction": 73.65396805652914,
+    "request_time": 15908,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-03",
+    "paid_fare": 161.69198292,
+    "ready_prediction": 161.50760030368656,
+    "unsafe_leakage_prediction": 161.75352529299937,
+    "request_time": 15905,
+    "quote_status": "served",
+    "served_prediction": 161.50760030368656
+  },
+  {
+    "id": "d159-04",
+    "paid_fare": 122.91988107,
+    "ready_prediction": 123.12572882909946,
+    "unsafe_leakage_prediction": 122.8645389746283,
+    "request_time": 15910,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-05",
+    "paid_fare": 167.43882435,
+    "ready_prediction": 171.40918223861468,
+    "unsafe_leakage_prediction": 167.38966296331864,
+    "request_time": 15907,
+    "quote_status": "served",
+    "served_prediction": 171.40918223861468
+  },
+  {
+    "id": "d159-06",
+    "paid_fare": 79.09639463,
+    "ready_prediction": 82.11876343843467,
+    "unsafe_leakage_prediction": 78.98657100530782,
+    "request_time": 15912,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-07",
+    "paid_fare": 82.36213397,
+    "ready_prediction": 78.60979863171745,
+    "unsafe_leakage_prediction": 82.29682960509346,
+    "request_time": 15909,
+    "quote_status": "served",
+    "served_prediction": 78.60979863171747
+  },
+  {
+    "id": "d159-08",
+    "paid_fare": 130.00988051,
+    "ready_prediction": 137.9368443719059,
+    "unsafe_leakage_prediction": 130.0951004863466,
+    "request_time": 15914,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-09",
+    "paid_fare": 155.85405992,
+    "ready_prediction": 147.52613252184236,
+    "unsafe_leakage_prediction": 155.8199654371645,
+    "request_time": 15911,
+    "quote_status": "served",
+    "served_prediction": 147.52613252184233
+  },
+  {
+    "id": "d159-10",
+    "paid_fare": 142.71636522,
+    "ready_prediction": 141.41206830742811,
+    "unsafe_leakage_prediction": 142.74069438909976,
+    "request_time": 15916,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-11",
+    "paid_fare": 90.50339751,
+    "ready_prediction": 93.13699794523689,
+    "unsafe_leakage_prediction": 90.52051910724043,
+    "request_time": 15913,
+    "quote_status": "served",
+    "served_prediction": 93.13699794523691
+  },
+  {
+    "id": "d159-12",
+    "paid_fare": 72.3651346,
+    "ready_prediction": 71.1789313930688,
+    "unsafe_leakage_prediction": 72.42825088813285,
+    "request_time": 15918,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  },
+  {
+    "id": "d159-13",
+    "paid_fare": 126.9692673,
+    "ready_prediction": 127.67384760776518,
+    "unsafe_leakage_prediction": 126.97816780160397,
+    "request_time": 15915,
+    "quote_status": "served",
+    "served_prediction": 127.67384760776517
+  },
+  {
+    "id": "d159-14",
+    "paid_fare": 142.07633901,
+    "ready_prediction": 139.1451593654528,
+    "unsafe_leakage_prediction": 142.06900123672798,
+    "request_time": 15920,
+    "quote_status": "refused_expired",
+    "served_prediction": null
+  }
+]
